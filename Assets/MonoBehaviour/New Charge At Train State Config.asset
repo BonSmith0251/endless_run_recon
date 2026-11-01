@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03a776128ae1d8314b39a5f57fbbd534, type: 3}
+  m_Name: New Charge At Train State Config
+  m_EditorClassIdentifier:
+  <EnterAnimation>k__BackingField: {fileID: 0}
+  <ModifierDefinitions>k__BackingField:
+  - statDefinition: {fileID: 11400000, guid: 0aab63035c6af8946910f9f4be521536, type: 2}
+    modifierFactory:
+      Type: 1
+      value: 3
+      displayAsPercent: 0
+  <TrainRuntimeValue>k__BackingField: {fileID: 11400000, guid: b11b05da5199d724a8c1e367d7a73439, type: 2}
+  <SignalPrefab>k__BackingField: {fileID: 114618682377417806, guid: 1028c3ee6d1b96b4cbd132c7e7642176, type: 2}
+  <WindupDuration>k__BackingField: 3
+  <OverShoot>k__BackingField: 15

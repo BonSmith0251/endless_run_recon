@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop Actions_ko
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: f27607258003371488d387b8132cdc75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: 객차 병합
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: 동일한 등급의 객차를 병합하여 모듈 슬롯을 늘리고 강력한 버프 효과를 얻을 수 있습니다.\n<color=#FFEB87>결합 시 일정 시간이 필요합니다.</color> 이 카운터는 객차가 결합까지 필요한 역의 개수를 표시합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: 객차 추가
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: 열차에 새로운 일반 객차를 추가합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: 열차 수리
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: 열차를 수리합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: 상점 갱신
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: 상점을 갱신합니다. 갱신할 때마다 비용이 증가합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20629577020379136
+    m_Localized: 구입 완료
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

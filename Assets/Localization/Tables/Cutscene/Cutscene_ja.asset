@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_ja
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 30e590581f804cb40b6091dac4b279e6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38846238720
+    m_Localized: "我々は数十年前に地上を失い、\n地下へ退き、サイロの中へ逃げ込んだ。"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66927104000
+    m_Localized: "時間が…止まったのかって？それはよくわからない。\nただ、食料が尽きかけている。もっとも、ネズミたちは元気なようだが。"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99638480896
+    m_Localized: ここ数日、他のサイロからは何の音沙汰もない。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124955299840
+    m_Localized: "もうここには留まれない。\nこの線路が脱出する唯一の道かもしれない。"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150704132096
+    m_Localized: さて、音楽でもかけよう…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177870639104
+    m_Localized: …そして、外でどこまで持ちこたえられるか、試してみようじゃないか。
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tooltips_zh-Hant
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-Hant
+  m_SharedData: {fileID: 11400000, guid: ed05d80c3c914bc4491eb53bbb2c26b1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 117963395072
+    m_Localized: 選擇一節<color=#FFEB87>相同等級</color>的車廂進行合併。取消按
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515176566784
+    m_Localized: 點擊一節車廂選中它。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695485501440
+    m_Localized: 按
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757099827200
+    m_Localized: 在不同車廂間切換：
+    m_Metadata:
+      m_Items: []
+  - m_Id: 882278830080
+    m_Localized: 調整車廂順序：
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951728115712
+    m_Localized: 拖放調整車廂順序。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 254346871345152
+    m_Localized: 當前遊戲進度將會丟失。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1357094152998912
+    m_Localized: 按住拖動
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7511486510043136
+    m_Localized: 選擇獎勵後，\n選中的車廂將被移除。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10494826276098048
+    m_Localized: 所有升級和遊戲內貨幣都將丟失。
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

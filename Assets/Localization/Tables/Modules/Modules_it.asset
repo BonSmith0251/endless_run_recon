@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Modules_it
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: fa59b52434e989b468f541274e3e5b7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4150802661017911427
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Lanciafiamme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Spara fiammate e infligge danni nel tempo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Virus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Rifiuti pericolosi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Lama circolare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Infligge danni ad area circolare attorno a questo vagone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Drone SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Drone SMG che infligge lievi danni ad alta cadenza di tiro a media distanza.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Arma elettrica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Prende di mira nemici casuali a lunga distanza. Propaga le scariche ai nemici vicini.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Cristallo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Modificatore Fuoco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Uranio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Lingotti d'oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Aumenta il <color=#FFEB87>valore di vendita</color> di questo modulo di <color=#71FF90>{0}</color> a ogni stazione.
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 21
+    m_Localized: Congelatore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Spara frammenti di ghiaccio e rallenta i nemici.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Modificatore Ghiaccio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Drone fucile a pompa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Drone fucile a pompa che infligge ingenti danni a corto raggio con un'ampia rosa di proiettili e una cadenza di tiro bassa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Modificatore repulsione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: Torretta fucile a pompa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Equipaggia un fucile a pompa che spara da questo vagone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: Sacchetto di monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Consegnalo alla stazione successiva per ricevere 300 monete.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: Radar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Torretta fucile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Equipaggia un fucile che spara da questo vagone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Torretta laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: Equipaggia un potente laser che infligge danni da questo vagone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Plutonio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Perforatore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Unione rapida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: '<color=#71FF90>-1</color> al contatore di ondate per l''unione di questo vagone quando consegnato alla stazione successiva. (Min. 1)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: Amplificatore per chitarra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: Respinge indietro i nemici quando il treno viene colpito.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Acchiappa-ricchezze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Torretta SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Equipaggia una mitragliatrice che spara dal vagone a cui è collegata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Bombola d'ossigeno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: Arca perduta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: '<color=#71FF90>+50%</color> a <color=#FFEB87>tutte le statistiche</color> di questo vagone e di quelli adiacenti. Viene rimosso alla stazione successiva.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Drone fucile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Drone fucile che infligge danni elevati a lunga distanza con una bassa cadenza di tiro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Biocarburante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Cherosene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: Quadrifoglio fortunato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Modificatore Fulmine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Barili d'olio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: Lame aggiuntive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: '{value} a <color=#FFEB87>{stat}</color> a {target}.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 4150802661017911427
+  - m_Id: 69
+    m_Localized: '{value} a <color=#FFEB87>{stat}</color>.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: -2
+      - rid: 4150802661017911427
+  - m_Id: 70
+    m_Localized: Aggiunge {effect} a {target}.
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911427
+  - m_Id: 71
+    m_Localized: Abilità Fulmine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Abilità repulsione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Abilità Fuoco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: Abilità Ghiaccio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63477153173504
+    m_Localized: UFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63886416580608
+    m_Localized: Prisma elettrico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63982336118784
+    m_Localized: Prisma infuocato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64299027042304
+    m_Localized: Trappola elettrica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64387132592128
+    m_Localized: Trappola infuocata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64431294418944
+    m_Localized: Trappola ghiacciata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169104537128960
+    m_Localized: Batteria scarica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169206630682624
+    m_Localized: Calamita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169282191069184
+    m_Localized: Stazione di controllo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169354941272064
+    m_Localized: Cervello IA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169426034724864
+    m_Localized: Sfera elettrica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169484281024512
+    m_Localized: Sfera infuocata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169539100577792
+    m_Localized: Sfera ghiacciata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169617680863232
+    m_Localized: Drone SMG Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170283866361856
+    m_Localized: Drone SMG Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170364975812608
+    m_Localized: Drone fucile a pompa Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170445263179776
+    m_Localized: Drone fucile a pompa Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170501437493248
+    m_Localized: Drone fucile Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170570110832640
+    m_Localized: Drone fucile Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171116251156480
+    m_Localized: Schiera 3 droni fucile da combattimento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171189659865088
+    m_Localized: Schiera 2 droni fucile da combattimento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171261491515392
+    m_Localized: Schiera 3 droni fucile a pompa da combattimento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171309432410112
+    m_Localized: Schiera 2 droni fucile a pompa da combattimento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171371550052352
+    m_Localized: Schiera 3 droni SMG da combattimento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171413325320192
+    m_Localized: Schiera 2 droni SMG da combattimento.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class:, ns:, asm:}
+      data: {}
+    - rid: 4150802661017911427
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 68
+        - id: 69
+        - id: 70

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcb3048335cc150b2d23bdc3994630ab, type: 3}
+  m_Name: Lightning Weapon Config
+  m_EditorClassIdentifier:
+  <Range>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 69edc941fae67aa4ba42e25dcf4e7b1f, type: 2}
+    baseValue:
+      value: 25
+      runtimeValue: {fileID: 0}
+  <Modifiers>k__BackingField:
+  - {fileID: 11400000, guid: 01ec92255367dc445993616f2c1aded4, type: 2}
+  <BaseDamage>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: e63dd4ac5c736ef4eb497b35746d2b2c, type: 2}
+    baseValue:
+      value: 15
+      runtimeValue: {fileID: 0}
+  <CritChance>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: cad498afd008c0b4a8053b0a563261ca, type: 2}
+    baseValue:
+      value: 0.1
+      runtimeValue: {fileID: 0}
+  <FireRate>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 0a56dfe3a2c62124d888cf82110fadd9, type: 2}
+    baseValue:
+      value: 0.5
+      runtimeValue: {fileID: 11400000, guid: 520761e79f71d0348bcb863d83e7491c, type: 2}
+  <SFXRef>k__BackingField:
+    Guid:
+      Data1: 234609088
+      Data2: 1200197340
+      Data3: -1073272660
+      Data4: 1593819655
+  <Prefab>k__BackingField: {fileID: 114884547391421755, guid: 0be514a4a71cca647a6f8147f33c59ed, type: 2}

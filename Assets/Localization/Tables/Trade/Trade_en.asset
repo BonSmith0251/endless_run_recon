@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Trade_en
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ecf725be8c7bdf849ac7768ab4fce8b8, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4150802750284497084
+  m_TableData:
+  - m_Id: 32588337152
+    m_Localized: '{value} to <color=#FFEB87>{stat}</color>'
+    m_Metadata:
+      m_Items:
+      - rid: 4150802750284497084
+  - m_Id: 200000000000
+    m_Localized: Fire Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201000000000
+    m_Localized: Fire Damage Interval
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202000000000
+    m_Localized: Laser Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 203000000000
+    m_Localized: Laser Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204000000000
+    m_Localized: Laser Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205000000000
+    m_Localized: Laser Width
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206000000000
+    m_Localized: Lightning Chain Count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207000000000
+    m_Localized: Lightning Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208000000000
+    m_Localized: Lightning Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209000000000
+    m_Localized: Rifle Crit Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210000000000
+    m_Localized: Rifle Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211000000000
+    m_Localized: Rifle Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212000000000
+    m_Localized: Rifle Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213000000000
+    m_Localized: SMG Crit Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214000000000
+    m_Localized: SMG Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215000000000
+    m_Localized: SMG Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216000000000
+    m_Localized: SMG Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217000000000
+    m_Localized: Sawblade Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218000000000
+    m_Localized: Sawblade Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219000000000
+    m_Localized: Sawblade Spin Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220000000000
+    m_Localized: Sawblade Weapon Count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221000000000
+    m_Localized: Shotgun Crit Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222000000000
+    m_Localized: Shotgun Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223000000000
+    m_Localized: Shotgun Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224000000000
+    m_Localized: Shotgun Range
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497084
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 32588337152

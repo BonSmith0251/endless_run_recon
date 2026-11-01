@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop Actions_es
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: f27607258003371488d387b8132cdc75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Fusionar vagones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Fusiona vagones del mismo grado para aumentar las ranuras de módulo y obtener poderosas bonificaciones.\n<color=#FFEB87>La fusión no es instantánea.</color> El contador muestra cuántas estaciones deben sobrevivir los vagones para completar la fusión.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Añadir vagón
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Añade un nuevo vagón común al tren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Reparar tren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Repara el tren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Actualizar tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Actualiza la tienda. El precio de actualización aumenta cada vez que la actualizas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20629577020379136
+    m_Localized: Comprado
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

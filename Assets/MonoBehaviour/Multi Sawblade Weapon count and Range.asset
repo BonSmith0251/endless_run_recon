@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c5fbd50abbaffcad65888f6b5887c6b, type: 3}
+  m_Name: Multi Sawblade Weapon count and Range
+  m_EditorClassIdentifier:
+  id: 443fef5a-69b4-4840-82de-2e6c0398c450
+  eligibilities: []
+  PriceMultiplier: 1.5
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: f921f3201ca5a214ab51c47fe140218c, type: 2}
+  - {fileID: 11400000, guid: 103930eff5d168246ac256bb39286e1e, type: 2}
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tooltips_ko
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: ed05d80c3c914bc4491eb53bbb2c26b1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 117963395072
+    m_Localized: '<color=#FFEB87>동일한 등급</color>의 객차를 선택하여 병합할 수 있습니다. 취소하려면'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515176566784
+    m_Localized: 객차를 클릭하여 선택하세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695485501440
+    m_Localized: 사용
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757099827200
+    m_Localized: '객차 전환:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 882278830080
+    m_Localized: '객차 순서 변경:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951728115712
+    m_Localized: 객차를 드래그하여 순서를 변경하세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 254346871345152
+    m_Localized: 현재 진행도를 잃게 됩니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1357094152998912
+    m_Localized: 드래그
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7511486510043136
+    m_Localized: 보상 선택 후,\n선택한 객차는 사라집니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10494826276098048
+    m_Localized: 모든 업그레이드 진행도와 메타 코인을 잃게 됩니다.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

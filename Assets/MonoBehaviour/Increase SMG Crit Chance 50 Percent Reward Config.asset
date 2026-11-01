@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e03c8af7d4e8e8cb9c72b9b12a9d5f5, type: 3}
+  m_Name: Increase SMG Crit Chance 50 Percent Reward Config
+  m_EditorClassIdentifier:
+  id: a11e56ae-c9cc-462a-a954-2ffba2fcd438
+  eligibilities:
+  - rid: 4150802750284497052
+  PriceMultiplier: 1.5
+  <RuntimeValue>k__BackingField: {fileID: 11400000, guid: 6438fb34e80a52244acd357bc63f0013, type: 2}
+  <Step>k__BackingField: 0.5
+  valueFormat: 1
+  statName:
+    m_TableReference:
+      m_TableCollectionName: GUID:ecf725be8c7bdf849ac7768ab4fce8b8
+    m_TableEntryReference:
+      m_KeyId: 213000000000
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497052
+      type: {class: Any, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        inner:
+        - rid: 4150802750284497053
+        - rid: 4150802750284497054
+        - rid: 4150802750284497055
+        - rid: 4150802750284497056
+    - rid: 4150802750284497053
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: ae1a46cb32e5b7642b8648a0024da7d7, type: 2}
+    - rid: 4150802750284497054
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: bfe71786cc388504788a72001de5eb2a, type: 2}
+    - rid: 4150802750284497055
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: b23e132ade9a97144ae5b8455071b10a, type: 2}
+    - rid: 4150802750284497056
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: 6fa6d99d610e7554fa39963715739c1c, type: 2}

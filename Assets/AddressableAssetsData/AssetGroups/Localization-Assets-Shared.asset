@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 532493f9041a45a40900186c7fe1bc0e
+  m_SerializeEntries:
+  - m_GUID: 050a3e50fd6e5f840a4e8c7a97ef6b54
+    m_Address: Assets/Localization/Tables/Stats/End Game Stats Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 117a8fe292a07774c8c1e02df81896a8
+    m_Address: Assets/Localization/Tables/Buttons/Buttons Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12a4147598c41254f9caa2905417b08d
+    m_Address: Assets/Localization/Tables/Main Menu/Main Menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 140441527868c8e448cfab91c70d9b43
+    m_Address: Assets/Localization/Tables/Cart Descriptions/Cart Descriptions Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e6ed87fc59345447941e93e21c45f5e
+    m_Address: Assets/Localization/Tables/Tutorials/Tutorials Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30e590581f804cb40b6091dac4b279e6
+    m_Address: Assets/Localization/Tables/Cutscene/Cutscene Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59a8f2c291d848d0af6c7e86c7bc8a41
+    m_Address: Assets/Localization/Tables/Module Targets/Module Targets Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b8e6a104254ccc40bb3f41d27121495
+    m_Address: Assets/Localization/Tables/Menu Headers/Menu Headers Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77cd47f47e011b143b84efc345a9d7aa
+    m_Address: Assets/Localization/Tables/Credits/Credits Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a13620235ace3b742a974af905caf0f6
+    m_Address: Assets/Localization/Tables/Misc/Misc Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a237a7620673fb64a94f7e98e09cf976
+    m_Address: Assets/Localization/Tables/Settings/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d190915228639d34e83912a8f01e9377
+    m_Address: Assets/Localization/Tables/Upgrades/Upgrades Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d22d65d5c33193441a0b9f337179ff6b
+    m_Address: Assets/Localization/Tables/Abilities/Abilities Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4dccfc244a4323498370e8157f37910
+    m_Address: Assets/Localization/Tables/Errors/Errors Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecf725be8c7bdf849ac7768ab4fce8b8
+    m_Address: Assets/Localization/Tables/Trade/Trade Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed05d80c3c914bc4491eb53bbb2c26b1
+    m_Address: Assets/Localization/Tables/Tooltips/Tooltips Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f27607258003371488d387b8132cdc75
+    m_Address: Assets/Localization/Tables/Shop Actions/Shop Actions Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f76a832e70676734f944617f998a5828
+    m_Address: Assets/Localization/Tables/Font/Font Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa59b52434e989b468f541274e3e5b7a
+    m_Address: Assets/Localization/Tables/Modules/Modules Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faa1cec4cb6fb1242a75c41936ddbd6a
+    m_Address: Assets/Localization/Tables/Stats/Stats Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: e84a99a2d77129c459ce9f05094036e4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f14801c0467760940b55b2b6b84fb275, type: 2}
+    - {fileID: 11400000, guid: 1ec2aa4ac4687784888b7e1d1812fe68, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db5ba5e6c620fc080427ef0654798769, type: 3}
+  m_Name: Ice Weapon Modifier Definition
+  m_EditorClassIdentifier:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 74
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Effect>k__BackingField: {fileID: 11400000, guid: 52b972460756dca4bb581fef0cc8eaef, type: 2}
+  references:
+    version: 2
+    RefIds: []

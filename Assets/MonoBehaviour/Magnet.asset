@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc407d267bfd5886a0eec8f31e016a60, type: 3}
+  m_Name: Magnet
+  m_EditorClassIdentifier:
+  id: a1c92e10-4b3a-4f2e-9a11-000000000002
+  fallbackName: Magnet
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 2169206630682624
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 7f5a01a9c9a3f47468b7f9cd513174c1, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 250
+  <IsOffered>k__BackingField: 1
+  eligibilities: []
+  prefab: {fileID: 114618682377417806, guid: f0d97e5c826ca2c499218c6ab92ae4a0, type: 2}
+  modifierDefinitions:
+  - statDefinition: {fileID: 11400000, guid: 480cf335b8c28a64294a084731583a3b, type: 2}
+    modifierFactory:
+      Type: 1
+      value: 2
+      displayAsPercent: 0
+  - statDefinition: {fileID: 11400000, guid: 516f5fbd486c26848b797ef94fbe7925, type: 2}
+    modifierFactory:
+      Type: 1
+      value: 0.7
+      displayAsPercent: 0
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97c8684fe7ffe21ecaf19ce6323d91e, type: 3}
+  m_Name: Freezer Weapon Config
+  m_EditorClassIdentifier:
+  <Range>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 69edc941fae67aa4ba42e25dcf4e7b1f, type: 2}
+    baseValue:
+      value: 20
+      runtimeValue: {fileID: 0}
+  <Modifiers>k__BackingField:
+  - {fileID: 11400000, guid: 29536c434955c3a4188aad88d0663c06, type: 2}
+  <FireRef>k__BackingField:
+    Guid:
+      Data1: -1941483086
+      Data2: 1136840107
+      Data3: 1304765829
+      Data4: -1799275341
+  <Prefab>k__BackingField: {fileID: 114703437598541787, guid: e95f38a6be35e844e899d6ea29dfb9be, type: 2}
+  <TickInterval>k__BackingField: 0.5

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40e4c5b15f215bf8a0621d4a6f19f065, type: 3}
+  m_Name: New Spawn Adds To Kill State Config
+  m_EditorClassIdentifier:
+  <EnterAnimation>k__BackingField: {fileID: 0}
+  <ModifierDefinitions>k__BackingField: []
+  <Groups>k__BackingField:
+  - config: {fileID: 11400000, guid: d8f214160254b9e4ca8ba301602231d5, type: 2}
+    pattern: {fileID: 11400000, guid: 7ecfd57cf14ba8b4a9cccb3a740c6594, type: 2}
+  - config: {fileID: 11400000, guid: ff372282638c8ed438b05b402e5dec28, type: 2}
+    pattern: {fileID: 11400000, guid: c8bee69f5ef299048831c31df84e242b, type: 2}
+  <SpawnerValue>k__BackingField: {fileID: 11400000, guid: 9d8a785532e97f843b06efffe82af006, type: 2}

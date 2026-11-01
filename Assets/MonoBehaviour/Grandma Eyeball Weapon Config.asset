@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7c39400501ed3e2b2fc24d59d5f2be, type: 3}
+  m_Name: Grandma Eyeball Weapon Config
+  m_EditorClassIdentifier:
+  <Range>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 69edc941fae67aa4ba42e25dcf4e7b1f, type: 2}
+    baseValue:
+      value: 80
+      runtimeValue: {fileID: 0}
+  <Modifiers>k__BackingField: []
+  <BaseDamage>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: e63dd4ac5c736ef4eb497b35746d2b2c, type: 2}
+    baseValue:
+      value: 25
+      runtimeValue: {fileID: 0}
+  <CritChance>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: cad498afd008c0b4a8053b0a563261ca, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 0}
+  <FireRate>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 0a56dfe3a2c62124d888cf82110fadd9, type: 2}
+    baseValue:
+      value: 2
+      runtimeValue: {fileID: 0}
+  <SFXRef>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+  <ProjectilePrefab>k__BackingField: {fileID: 114703437598541787, guid: 4b2182f8064044b4b819c988cc67a648, type: 2}
+  <SpeedConstant>k__BackingField: 20
+  <ImpactReference>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+  <PierceCount>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: b133c43b37de5b34c9d61fca55a4b1a4, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 0}

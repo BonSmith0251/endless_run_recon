@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Stats_pt
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: faa1cec4cb6fb1242a75c41936ddbd6a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Multiplicador de Bónus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Número Máximo de Vagões
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Probabilidade de Esquiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Número de Investidas dos Drones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Recarga das Investidas dos Drones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Distância das Investidas dos Drones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Mobilidade dos Drones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Mobilidade do Comboio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Ganho de XP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Vida Máxima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Velocidade de Movimento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Dano Base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Número de Encadeamentos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Probabilidade de Crítico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Dano ao Longo do Tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: Cadência de Tiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Largura do Laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Dano Elétrico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Número de Perfurações
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Número de Projéteis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Velocidade dos Projéteis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Alcance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Intensidade da Lentidão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: Velocidade de Rotação
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Dispersão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Intervalo do Dano ao Longo do Tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Número de Armas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2067644782174208
+    m_Localized: Alcance do Encadeamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2118870265716736
+    m_Localized: Colheita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3237832344952832
+    m_Localized: Distância do Empurrão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7195061085966336
+    m_Localized: Número de Dominações
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7195202425622528
+    m_Localized: Duração da Dominação
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7195292749959168
+    m_Localized: Distância do Empurrão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7199057917939712
+    m_Localized: Recarga do Empurrão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7199144106692608
+    m_Localized: Número de Empurrões
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7199373728059392
+    m_Localized: Raio do Empurrão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7200446555525120
+    m_Localized: Recarga da Dominação
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9051290901057536
+    m_Localized: Dano da Draga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12970323622924288
+    m_Localized: Raio de Recolha
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

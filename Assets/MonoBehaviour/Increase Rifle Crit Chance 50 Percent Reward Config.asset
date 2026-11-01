@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e03c8af7d4e8e8cb9c72b9b12a9d5f5, type: 3}
+  m_Name: Increase Rifle Crit Chance 50 Percent Reward Config
+  m_EditorClassIdentifier:
+  id: 40bd09db-bad6-4feb-bb9f-b238be8cad4c
+  eligibilities:
+  - rid: 4150802750284497020
+  PriceMultiplier: 1.5
+  <RuntimeValue>k__BackingField: {fileID: 11400000, guid: 493db147b50c2ab49a28ae413d59ca7b, type: 2}
+  <Step>k__BackingField: 0.5
+  valueFormat: 1
+  statName:
+    m_TableReference:
+      m_TableCollectionName: GUID:ecf725be8c7bdf849ac7768ab4fce8b8
+    m_TableEntryReference:
+      m_KeyId: 209000000000
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497020
+      type: {class: Any, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        inner:
+        - rid: 4150802750284497023
+        - rid: 4150802750284497026
+        - rid: 4150802750284497027
+        - rid: 4150802750284497028
+    - rid: 4150802750284497023
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: 0e6d3a9c687426640af430b1212630fb, type: 2}
+    - rid: 4150802750284497026
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: d85250d32b793dc45b2b641ff7c9ae58, type: 2}
+    - rid: 4150802750284497027
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: 91f3d07ad9618dc4f953cc9f85fe79de, type: 2}
+    - rid: 4150802750284497028
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: c9fed828460e0974495fe87aa8531a00, type: 2}

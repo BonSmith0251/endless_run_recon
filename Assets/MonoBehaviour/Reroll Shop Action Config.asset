@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fff1373bd51e9dcda592f2eae50a6a9e, type: 3}
+  m_Name: Reroll Shop Action Config
+  m_EditorClassIdentifier:
+  currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+  hotkey: {fileID: 11400000, guid: 79065f6f70013904a8e01f4bcc1019b2, type: 2}
+  metaData: {fileID: 11400000, guid: 1eacdc0613a45d443b49c8200934fcc3, type: 2}
+  rerollPricePercent: 0.2
+  rerollPriceMultiplier: 1.5
+  performEvent: {fileID: 11400000, guid: 2e6d3c49425d6754ab2f032717bb0ea7, type: 2}

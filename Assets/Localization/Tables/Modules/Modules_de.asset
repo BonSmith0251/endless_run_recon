@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Modules_de
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: fa59b52434e989b468f541274e3e5b7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4150802661017911425
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Flammenwerfer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Schießt Flammen und verursacht Schaden über Zeit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Virus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Giftmüll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Sägeblatt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Verursacht Schaden im Umkreis dieses Waggons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: MP-Drohne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: MP-Drohne mit geringem Schaden, hoher Feuerrate und mittlerer Reichweite.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Blitzwaffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Zielt auf zufällige Gegner in großer Reichweite. Springt auf Gegner in der Nähe über.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Kristall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Feuer-Modifikator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Uran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Goldbarren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Erhöht den <color=#FFEB87>Verkaufswert</color> dieses Moduls an jeder Station um <color=#71FF90>{0}</color>.
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 21
+    m_Localized: Eiswerfer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Schießt Eis und verlangsamt Gegner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Eis-Modifikator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Schrotflinten-Drohne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Schrotflinten-Drohne mit hohem Schaden und breiter Streuung auf kurze Distanz, bei niedriger Feuerrate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Rückstoß-Modifikator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: Schrotflinten-Turm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Rüstet diesen Waggon mit einer Schrotflinte aus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: Münzsack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Liefere ihn an der nächsten Station ab und erhalte 300 Münzen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: Radar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Gewehrturm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Rüstet diesen Waggon mit einem Gewehr aus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Laserturm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: Rüstet diesen Waggon mit einem starken Laser aus, der Schaden verursacht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Plutonium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Durchdringer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Schnellkombinieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: '<color=#71FF90>-1</color> auf den Kombinationswellen-Zähler dieses Waggons, wenn er an der nächsten Station abgeliefert wird. (Min. 1)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: Gitarrenverstärker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: Stößt Gegner zurück, wenn der Zug getroffen wird.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Sammler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: MP-Turm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Rüstet den Waggon, an dem er angebracht ist, mit einer MP aus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Sauerstofftank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: Verlorene Arche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: '<color=#71FF90>+50%</color> auf <color=#FFEB87>alle Werte</color> von diesem und benachbarten Waggons. Wird an der nächsten Station entfernt.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Gewehr-Drohne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Gewehr-Drohne mit hohem Schaden auf großer Reichweite und niedriger Feuerrate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Biokraftstoff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Kerosin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: Münzklee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Blitz-Modifikator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Ölfässer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: Extra-Klingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: '{value} zu <color=#FFEB87>{stat}</color> {target}.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 4150802661017911425
+  - m_Id: 69
+    m_Localized: '{value} zu <color=#FFEB87>{stat}</color>.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: -2
+      - rid: 4150802661017911425
+  - m_Id: 70
+    m_Localized: Fügt {effect} {target} hinzu.
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911425
+  - m_Id: 71
+    m_Localized: Blitz-Fähigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Rückstoß-Fähigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Feuer-Fähigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: Eis-Fähigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63477153173504
+    m_Localized: UFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63886416580608
+    m_Localized: Blitzprisma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63982336118784
+    m_Localized: Feuerprisma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64299027042304
+    m_Localized: Blitzfalle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64387132592128
+    m_Localized: Feuerfalle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64431294418944
+    m_Localized: Eisfalle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169104537128960
+    m_Localized: Abgelaufene Batterie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169206630682624
+    m_Localized: Magnet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169282191069184
+    m_Localized: Kontrollstation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169354941272064
+    m_Localized: KI-Gehirn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169426034724864
+    m_Localized: Blitzkugel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169484281024512
+    m_Localized: Feuerkugel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169539100577792
+    m_Localized: Eiskugel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169617680863232
+    m_Localized: MP-Drohne Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170283866361856
+    m_Localized: MP-Drohne Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170364975812608
+    m_Localized: Schrotflinten-Drohne Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170445263179776
+    m_Localized: Schrotflinten-Drohne Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170501437493248
+    m_Localized: Gewehr-Drohne Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170570110832640
+    m_Localized: Gewehr-Drohne Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171116251156480
+    m_Localized: Setzt 3 Gewehr-Kampfdrohnen ein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171189659865088
+    m_Localized: Setzt 2 Gewehr-Kampfdrohnen ein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171261491515392
+    m_Localized: Setzt 3 Schrotflinten-Kampfdrohnen ein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171309432410112
+    m_Localized: Setzt 2 Schrotflinten-Kampfdrohnen ein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171371550052352
+    m_Localized: Setzt 3 MP-Kampfdrohnen ein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171413325320192
+    m_Localized: Setzt 2 MP-Kampfdrohnen ein.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class:, ns:, asm:}
+      data: {}
+    - rid: 4150802661017911425
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 68
+        - id: 69
+        - id: 70

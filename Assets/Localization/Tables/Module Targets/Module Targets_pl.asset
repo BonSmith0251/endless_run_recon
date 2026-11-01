@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Module Targets_pl
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 59a8f2c291d848d0af6c7e86c7bc8a41, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: w tym wagonie
+    m_Metadata:
+      m_Items:
+      - rid: 1
+  - m_Id: 2
+    m_Localized: w lokomotywie
+    m_Metadata:
+      m_Items:
+      - rid: 2
+  - m_Id: 3
+    m_Localized: w ostatnim wagonie
+    m_Metadata:
+      m_Items:
+      - rid: 3
+  - m_Id: 4
+    m_Localized: w pierwszym wagonie
+    m_Metadata:
+      m_Items:
+      - rid: 4
+  - m_Id: 5
+    m_Localized: we wszystkich wagonach
+    m_Metadata:
+      m_Items:
+      - rid: 5
+  - m_Id: 6
+    m_Localized: w sąsiednich wagonach
+    m_Metadata:
+      m_Items:
+      - rid: 6
+  - m_Id: 7
+    m_Localized: we wszystkich wagonach z tyłu
+    m_Metadata:
+      m_Items:
+      - rid: 7
+  - m_Id: 8
+    m_Localized: we wszystkich wagonach z przodu
+    m_Metadata:
+      m_Items:
+      - rid: 8
+  - m_Id: 9
+    m_Localized: w tym wagonie i {range} z obu stron
+    m_Metadata:
+      m_Items:
+      - rid: 9
+  references:
+    version: 2
+    RefIds:
+    - rid: 1
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 2
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 3
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 4
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 5
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 6
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 7
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 8
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []
+    - rid: 9
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c5fbd50abbaffcad65888f6b5887c6b, type: 3}
+  m_Name: Multi Damage and Chain Count
+  m_EditorClassIdentifier:
+  id: 0ede9825-e2c4-4619-89fb-7a34186b1c99
+  eligibilities: []
+  PriceMultiplier: 1.5
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: 51a9222f568cfa447a2dc0f3cb0b373f, type: 2}
+  - {fileID: 11400000, guid: 8c0e13ff03057da44b8207d8a2427705, type: 2}
+  references:
+    version: 2
+    RefIds: []

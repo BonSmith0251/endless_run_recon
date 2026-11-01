@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29084be7e415506a7e85a5a6bfdd9982, type: 3}
+  m_Name: Upgrade Tree Graph
+  m_EditorClassIdentifier:
+  Nodes:
+  - rid: 1000
+  - rid: 1001
+  - rid: 1002
+  - rid: 1003
+  - rid: 1004
+  - rid: 1005
+  - rid: 1006
+  - rid: 1007
+  - rid: 1008
+  - rid: 1009
+  - rid: 1010
+  - rid: 1011
+  - rid: 1012
+  - rid: 1013
+  - rid: 1014
+  - rid: 1015
+  - rid: 1016
+  - rid: 1017
+  - rid: 1018
+  - rid: 1019
+  - rid: 1020
+  - rid: 1021
+  - rid: 1022
+  - rid: 1023
+  - rid: 1024
+  - rid: 1025
+  - rid: 1026
+  - rid: 1027
+  - rid: 1028
+  - rid: 1029
+  - rid: 1030
+  - rid: 1031
+  - rid: 1032
+  references:
+    version: 2
+    RefIds:
+    - rid: 1000
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 0
+        NodeType: 0
+        UpgradeData: {fileID: 11400000, guid: a9fae3b192a44d743a20436afd7cc48a, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 5
+        NextNodeIndices: 0100000002000000030000000400000005000000
+        PreviousNodeIndices:
+        Position: {x: 0, y: 0}
+    - rid: 1001
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 1
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: e0aae0832d8d99d42b8c614b4d15dbd6, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 20
+        NextNodeIndices: 0600000007000000
+        PreviousNodeIndices: 00000000
+        Position: {x: -2.5000002, y: -4.330127}
+    - rid: 1002
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 2
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 0bb59dce63e726348b6aba60f3a9064b, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 20
+        NextNodeIndices: 08000000090000000a000000
+        PreviousNodeIndices: 00000000
+        Position: {x: 5, y: 0}
+    - rid: 1003
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 3
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: dca5d290c64d3714fa1e6d5f7eb73caa, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 25
+        NextNodeIndices: 0b000000
+        PreviousNodeIndices: 00000000
+        Position: {x: 1.5450848, y: 4.755283}
+    - rid: 1004
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 4
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 7d35b9e8a465cad4fb82f37739b12f24, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 25
+        NextNodeIndices: 0c000000
+        PreviousNodeIndices: 00000000
+        Position: {x: -0.52264255, y: 4.9726095}
+    - rid: 1005
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 5
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 18d14f9613bdb2c4ca265195693b366f, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 20
+        NextNodeIndices: 0d0000000e0000000f000000
+        PreviousNodeIndices: 00000000
+        Position: {x: -4.0450854, y: 2.938926}
+    - rid: 1006
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 6
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: d40a336cd70fc834e83f7d244ccf8166, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 30
+        NextNodeIndices: 1000000011000000
+        PreviousNodeIndices: 01000000
+        Position: {x: -7.308364, y: -3.2538927}
+    - rid: 1007
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 7
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 9f379296ceaf6b44da4e6d3d9b96df28, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 30
+        NextNodeIndices: 120000001300000014000000
+        PreviousNodeIndices: 01000000
+        Position: {x: -0.8362281, y: -7.9561753}
+    - rid: 1008
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 8
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 86c55f61633bd954a9a456f4ee23734f, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices: 15000000
+        PreviousNodeIndices: 02000000
+        Position: {x: 5.3530445, y: -5.945159}
+    - rid: 1009
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 9
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 8e132b4e9d737814db194fb777e545a1, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices: 16000000
+        PreviousNodeIndices: 02000000
+        Position: {x: 7.3083634, y: -3.2538931}
+    - rid: 1010
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 10
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: b98a718b3cbb3694dba9c935999c9ac6, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 30
+        NextNodeIndices: 170000001800000019000000
+        PreviousNodeIndices: 02000000
+        Position: {x: 7.3083634, y: 3.2538931}
+    - rid: 1011
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 11
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 72ea552aa7cd25442be01bc36b0e6714, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 40
+        NextNodeIndices: 1a000000
+        PreviousNodeIndices: 03000000
+        Position: {x: 2.4721358, y: 7.6084523}
+    - rid: 1012
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 12
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: ec6e36da1c3e9654692d2a0549954fe3, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 25
+        NextNodeIndices: 1b000000
+        PreviousNodeIndices: 04000000
+        Position: {x: -0.8362281, y: 7.9561753}
+    - rid: 1013
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 13
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 18d14f9613bdb2c4ca265195693b366f, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 40
+        NextNodeIndices:
+        PreviousNodeIndices: 05000000
+        Position: {x: -4.0000005, y: 6.928203}
+    - rid: 1014
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 14
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 91308fb731d5777489e9ae11a7075e59, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 40
+        NextNodeIndices: 1c000000
+        PreviousNodeIndices: 05000000
+        Position: {x: -6.4721365, y: 4.7022815}
+    - rid: 1015
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 15
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: a9fae3b192a44d743a20436afd7cc48a, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 40
+        NextNodeIndices:
+        PreviousNodeIndices: 05000000
+        Position: {x: -7.825181, y: 1.6632929}
+    - rid: 1016
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 16
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 0e21e6d1ae068c14fa44efbce206491d, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 06000000
+        Position: {x: -10.759624, y: -2.2870278}
+    - rid: 1017
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 17
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: efb13f23bdd5d4e44bf05c4f145e3339, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 06000000
+        Position: {x: -8.899188, y: -6.465637}
+    - rid: 1018
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 18
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 1ac326f413a1c32459f04d447475494b, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices: 1d000000
+        PreviousNodeIndices: 07000000
+        Position: {x: -5.5000005, y: -9.526279}
+    - rid: 1019
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 19
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 035aaea8e5149fb47a74d649bb656b19, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices: 1e000000
+        PreviousNodeIndices: 07000000
+        Position: {x: -1.1498137, y: -10.939741}
+    - rid: 1020
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 20
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 9f379296ceaf6b44da4e6d3d9b96df28, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices:
+        PreviousNodeIndices: 07000000
+        Position: {x: 3.3991866, y: -10.461622}
+    - rid: 1021
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 21
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 5d9e5b0ba758bf14e925eb1bd3605f97, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 08000000
+        Position: {x: 7.3604364, y: -8.174594}
+    - rid: 1022
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 22
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: aad0ef9f7639c314c9fb9a2fb216da75, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 09000000
+        Position: {x: 10.049, y: -4.474103}
+    - rid: 1023
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 23
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 78275e134a38429429aa2dbf035313ac, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices: 1f000000
+        PreviousNodeIndices: 0a000000
+        Position: {x: 11, y: 0}
+    - rid: 1024
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 24
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 5cc1f5f83cc0ab14589b34fe267ac3a2, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices: 20000000
+        PreviousNodeIndices: 0a000000
+        Position: {x: 10.049, y: 4.474103}
+    - rid: 1025
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 25
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: b98a718b3cbb3694dba9c935999c9ac6, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices:
+        PreviousNodeIndices: 0a000000
+        Position: {x: 7.3604364, y: 8.174594}
+    - rid: 1026
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 26
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: b8415831f54e9934c8aa2d5778eea368, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices:
+        PreviousNodeIndices: 0b000000
+        Position: {x: 3.3991866, y: 10.461622}
+    - rid: 1027
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 27
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: ec6e36da1c3e9654692d2a0549954fe3, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 25
+        NextNodeIndices:
+        PreviousNodeIndices: 0c000000
+        Position: {x: -1.1498137, y: 10.939741}
+    - rid: 1028
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 28
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 850aa45ab6937554e87f7e22dabe0b22, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 50
+        NextNodeIndices:
+        PreviousNodeIndices: 0e000000
+        Position: {x: -8.899188, y: 6.465637}
+    - rid: 1029
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 29
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 1ac326f413a1c32459f04d447475494b, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 12000000
+        Position: {x: -7.000001, y: -12.124355}
+    - rid: 1030
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 30
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 035aaea8e5149fb47a74d649bb656b19, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 13000000
+        Position: {x: -1.4633992, y: -13.923306}
+    - rid: 1031
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 31
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 78275e134a38429429aa2dbf035313ac, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 17000000
+        Position: {x: 14, y: 0}
+    - rid: 1032
+      type: {class: UpgradeTreeRuntimeNode, ns: Monoblok.UpgradeTree.Runtime, asm: Assembly-CSharp}
+      data:
+        ID: 32
+        NodeType: 1
+        UpgradeData: {fileID: 11400000, guid: 5cc1f5f83cc0ab14589b34fe267ac3a2, type: 2}
+        Price:
+          Currency: {fileID: 11400000, guid: 9e7d60cdb78f33f40bd9f0d1459dd799, type: 2}
+          Amount: 60
+        NextNodeIndices:
+        PreviousNodeIndices: 18000000
+        Position: {x: 12.789636, y: 5.694313}

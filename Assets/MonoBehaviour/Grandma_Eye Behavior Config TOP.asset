@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c559dd05faa6b59a3bf496e6c0104a0e, type: 3}
+  m_Name: Grandma_Eye Behavior Config TOP
+  m_EditorClassIdentifier:
+  <Phases>k__BackingField:
+  - <States>k__BackingField:
+    - {fileID: 11400000, guid: 9f0be1b6c0f3c4b45a685293feb0657c, type: 2}

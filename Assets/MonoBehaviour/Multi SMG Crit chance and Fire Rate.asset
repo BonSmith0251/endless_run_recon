@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c5fbd50abbaffcad65888f6b5887c6b, type: 3}
+  m_Name: Multi SMG Crit chance and Fire Rate
+  m_EditorClassIdentifier:
+  id: 7cd38f42-21c5-417c-af4e-c7df21b26e7f
+  eligibilities: []
+  PriceMultiplier: 1.5
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: 59c5b8183ac8e2348ac35e8e57460aa1, type: 2}
+  - {fileID: 11400000, guid: 2a517d388ef146d4ea54ec4b743798d3, type: 2}
+  references:
+    version: 2
+    RefIds: []

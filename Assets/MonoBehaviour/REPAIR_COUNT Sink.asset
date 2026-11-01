@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c398e1e17f95f61d3a122b1b24222f, type: 3}
+  m_Name: REPAIR_COUNT Sink
+  m_EditorClassIdentifier:
+  trackable: {fileID: 11400000, guid: bbf5f1655b1ea3048ba469522a88a073, type: 2}
+  gameEvent: {fileID: 11400000, guid: a183183f559a0f3438ad8cd6b109a705, type: 2}
+  targetCount: 1
+  conditions: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop Actions_zh-Hant
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-Hant
+  m_SharedData: {fileID: 11400000, guid: f27607258003371488d387b8132cdc75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: 合併車廂
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: 合併同等級車廂，增加模組槽位並獲得強力增益。\n<color=#FFEB87>合併需要一定時間。</color>計數器會顯示還需撐過多少站才能完成合併。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: 增加車廂
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: 為列車增加一節普通車廂
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: 維修列車
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: 維修你的列車。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: 刷新商店
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: 刷新商店。每次刷新，都會提高刷新費用。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20629577020379136
+    m_Localized: 已購買
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

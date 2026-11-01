@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497513c1b1789b44cf071a4ceb183203, type: 3}
+  m_Name: Decrease Dash Cooldown 30 Percent Reward Config
+  m_EditorClassIdentifier:
+  id: 00a88db7-09cf-4d6d-ac5d-f605cee47d37
+  eligibilities:
+  - rid: 4150802750284497017
+  PriceMultiplier: 2
+  <GlobalStatModifierValue>k__BackingField: {fileID: 11400000, guid: ab5045851d03b7048943f1fc039ae351, type: 2}
+  <StatDefinition>k__BackingField: {fileID: 11400000, guid: b855e6185428fff4d8e41e10008d6c2d, type: 2}
+  <ModifierFactory>k__BackingField:
+    Type: 1
+    value: 0.7
+    displayAsPercent: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497017
+      type: {class: HasAbility, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        abilityConfig: {fileID: 11400000, guid: a3da31c3047de8245b2a00af5bc1f204, type: 2}

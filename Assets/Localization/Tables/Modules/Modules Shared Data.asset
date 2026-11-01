@@ -1,0 +1,371 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Modules Shared Data
+  m_EditorClassIdentifier:
+  m_TableCollectionName: Modules
+  m_TableCollectionNameGuidString: fa59b52434e989b468f541274e3e5b7a
+  m_Entries:
+  - m_Id: 1
+    m_Key: FlameThrowerName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Key: FlameThrowerDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Key: VirusName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Key: HazardousWasteName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Key: SawbladeName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Key: SawbladeDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Key: SMGDroneBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Key: SMGDroneBayDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Key: LightningWeaponName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Key: LightningWeaponDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Key: CrystalName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Key: FireModifierName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Key: UraniumName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Key: GoldBarsName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Key: GoldBarsDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Key: FreezerName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Key: FreezerDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Key: IceModifierName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Key: ShotgunDroneBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Key: ShotgunDroneBayDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Key: KnockbackModifierName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Key: ShotgunWeaponModuleName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Key: ShotgunWeaponModuleDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Key: BagOfCoinsName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Key: BagOfCoinsDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Key: RadarName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Key: RifleWeaponModuleName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Key: RifleWeaponModuleDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Key: LaserName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Key: LaserDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Key: PlutoniumName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Key: PiercerName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Key: AnotherTempModuleName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Key: AnotherTempModuleDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Key: GuitarAmpName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Key: GuitarAmpDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Key: CollectorName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Key: SMGWeaponModuleName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Key: SMGWeaponModuleDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Key: OxygenTankName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Key: Lost Ark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Key: TempBuffDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Key: RifleDroneBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Key: RifleDroneBayDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Key: BioFuelName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Key: KeroseneName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Key: HarvesterName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Key: LightningModifierName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Key: OilName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Key: ExtraBladesName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Key: buffer_line
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911467
+  - m_Id: 69
+    m_Key: global_line
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911468
+  - m_Id: 70
+    m_Key: weapon_line
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911469
+  - m_Id: 71
+    m_Key: lightning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Key: knockback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Key: fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Key: ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63477153173504
+    m_Key: UfoName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63886416580608
+    m_Key: LightningPrismName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63982336118784
+    m_Key: FirePrismName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64299027042304
+    m_Key: LightningTrapName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64387132592128
+    m_Key: FireTrapName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64431294418944
+    m_Key: IceTrapName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169104537128960
+    m_Key: ExpiredBatteryName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169206630682624
+    m_Key: MagnetName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169282191069184
+    m_Key: ControlStationName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169354941272064
+    m_Key: AIBrainName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169426034724864
+    m_Key: LightningBallName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169484281024512
+    m_Key: FireBallName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169539100577792
+    m_Key: IceBallName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169617680863232
+    m_Key: TwinSMGBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170283866361856
+    m_Key: TripleSMGBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170364975812608
+    m_Key: TwinShotgunBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170445263179776
+    m_Key: TripleShotgunBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170501437493248
+    m_Key: TwinRifleBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170570110832640
+    m_Key: TripleRifleBayName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171116251156480
+    m_Key: TripleRifleBayDesciprtion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171189659865088
+    m_Key: TwinRifleBayDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171261491515392
+    m_Key: TripleShotgunBayDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171309432410112
+    m_Key: TwinShotgunBayDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171371550052352
+    m_Key: TripleSMGBayDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171413325320192
+    m_Key: TwinSMGBayDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4150802661017911419
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802661017911419
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1788255081299
+    - rid: 4150802661017911467
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'e.g.: +30% to Base Damage on all cars behind'
+    - rid: 4150802661017911468
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'e.g.: +20% Dodge Chance'
+    - rid: 4150802661017911469
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'e.g: Adds Lightning on adjacent cars'

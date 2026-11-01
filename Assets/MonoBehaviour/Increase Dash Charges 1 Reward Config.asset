@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497513c1b1789b44cf071a4ceb183203, type: 3}
+  m_Name: Increase Dash Charges 1 Reward Config
+  m_EditorClassIdentifier:
+  id: 4ec510a8-2507-4a0d-8c3a-179380a772c6
+  eligibilities:
+  - rid: 4150802750284497017
+  PriceMultiplier: 2
+  <GlobalStatModifierValue>k__BackingField: {fileID: 11400000, guid: ab5045851d03b7048943f1fc039ae351, type: 2}
+  <StatDefinition>k__BackingField: {fileID: 11400000, guid: 897e96dfa005a9943b6ee051deda6830, type: 2}
+  <ModifierFactory>k__BackingField:
+    Type: 0
+    value: 1
+    displayAsPercent: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497017
+      type: {class: HasAbility, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        abilityConfig: {fileID: 11400000, guid: a3da31c3047de8245b2a00af5bc1f204, type: 2}

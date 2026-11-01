@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Settings Shared Data
+  m_EditorClassIdentifier:
+  m_TableCollectionName: Settings
+  m_TableCollectionNameGuidString: a237a7620673fb64a94f7e98e09cf976
+  m_Entries:
+  - m_Id: 214931555442688
+    m_Key: GeneralHeader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1
+    m_Key: VideoHeader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Key: AudioHeader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215303934140416
+    m_Key: "LanguageLabel\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Key: ResolutionLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Key: DisplayModeLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Key: ExclusiveFullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Key: BorderlessWindow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Key: MaximizedWindow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Key: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Key: MasterVolumeLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Key: MusicVolumeLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Key: SFXVolumeLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971126148468736
+    m_Key: DroneUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971158490746880
+    m_Key: DroneDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971295887757312
+    m_Key: DroneLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971326996910080
+    m_Key: DroneRight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971844850847744
+    m_Key: DroneMovement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971374082166784
+    m_Key: TriggerAbility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971413206634496
+    m_Key: Accelerate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971449701273600
+    m_Key: Brake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13281932249567232
+    m_Key: EditMapping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22421636475686912
+    m_Key: ResetProgress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30435869129871360
+    m_Key: VsyncLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438747974307840
+    m_Key: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438872465444864
+    m_Key: Off
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7399976074578755933
+  references:
+    version: 2
+    RefIds:
+    - rid: 7399976074578755933
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1782923608749

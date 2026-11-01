@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2e0a02b1292ff1431a188fa51ba537, type: 3}
+  m_Name: Boss_Gator Enemy Config
+  m_EditorClassIdentifier:
+  enemyName: Gator
+  shortDescription: Fast and Furious
+  prefab: {fileID: 114061268324235159, guid: 7e64e16704d068e4ebbcc1704d90c3c9, type: 2}
+  behaviorConfig: {fileID: 11400000, guid: d1fee3d906e93eb42acbb0dffbdcb8d6, type: 2}
+  stats:
+  - StatDefinition: {fileID: 11400000, guid: 0aab63035c6af8946910f9f4be521536, type: 2}
+    baseValue:
+      value: 14
+      runtimeValue: {fileID: 0}
+  healthConst: 20000
+  shieldConst: 0
+  damageConst: 10
+  coinConst: 500
+  xpConst: 50
+  metaCoinChance: 1
+  metaCoinAmount: 10

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a0c51ff9f12f56f615c0b298d803657, type: 3}
+  m_Name: Grandma Spawn Egg
+  m_EditorClassIdentifier:
+  <EnterAnimation>k__BackingField: {fileID: 0}
+  <ModifierDefinitions>k__BackingField: []
+  <SpawnerRuntimeValue>k__BackingField: {fileID: 11400000, guid: 9d8a785532e97f843b06efffe82af006, type: 2}
+  <EnemyGroup>k__BackingField:
+    enemyConfigs:
+    - {fileID: 11400000, guid: 3b8b23bc3da8a8c44a123dec3c900919, type: 2}
+    spawnPattern: {fileID: 0}
+  <SpreadRadius>k__BackingField: 0
+  <Delay>k__BackingField: 0
+  <MinMaxCount>k__BackingField: {x: 1, y: 1}

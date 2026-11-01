@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Trade_it
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: ecf725be8c7bdf849ac7768ab4fce8b8, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4150802750284497089
+  m_TableData:
+  - m_Id: 32588337152
+    m_Localized: '{value} a <color=#FFEB87>{stat}</color>'
+    m_Metadata:
+      m_Items:
+      - rid: 4150802750284497089
+  - m_Id: 200000000000
+    m_Localized: Danno da fuoco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201000000000
+    m_Localized: Intervallo danno da fuoco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202000000000
+    m_Localized: Danno da laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 203000000000
+    m_Localized: Cadenza di tiro laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204000000000
+    m_Localized: Portata laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205000000000
+    m_Localized: Larghezza laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206000000000
+    m_Localized: Numero di concatenamenti Fulmine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207000000000
+    m_Localized: Danno da fulmine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208000000000
+    m_Localized: Cadenza di tiro Fulmine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209000000000
+    m_Localized: Probabilità di colpo critico fucile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210000000000
+    m_Localized: Danno fucile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211000000000
+    m_Localized: Cadenza di tiro fucile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212000000000
+    m_Localized: Portata fucile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213000000000
+    m_Localized: Probabilità di colpo critico SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214000000000
+    m_Localized: Danno SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215000000000
+    m_Localized: Cadenza di tiro SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216000000000
+    m_Localized: Portata SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217000000000
+    m_Localized: Danno lama circolare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218000000000
+    m_Localized: Portata lama circolare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219000000000
+    m_Localized: Velocità di rotazione lama circolare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220000000000
+    m_Localized: Numero di lame circolari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221000000000
+    m_Localized: Probabilità di colpo critico fucile a pompa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222000000000
+    m_Localized: Danno fucile a pompa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223000000000
+    m_Localized: Cadenza di tiro fucile a pompa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224000000000
+    m_Localized: Portata fucile a pompa
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497089
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 32588337152

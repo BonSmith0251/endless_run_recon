@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7c39400501ed3e2b2fc24d59d5f2be, type: 3}
+  m_Name: Rifle Weapon Config
+  m_EditorClassIdentifier:
+  <Range>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 69edc941fae67aa4ba42e25dcf4e7b1f, type: 2}
+    baseValue:
+      value: 20
+      runtimeValue: {fileID: 11400000, guid: f0388df27bc6bda4ca9ded6a9873ab2e, type: 2}
+  <Modifiers>k__BackingField: []
+  <BaseDamage>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: e63dd4ac5c736ef4eb497b35746d2b2c, type: 2}
+    baseValue:
+      value: 25
+      runtimeValue: {fileID: 11400000, guid: 94e3f557337854149903c167ddbf0b94, type: 2}
+  <CritChance>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: cad498afd008c0b4a8053b0a563261ca, type: 2}
+    baseValue:
+      value: 0.1
+      runtimeValue: {fileID: 11400000, guid: 493db147b50c2ab49a28ae413d59ca7b, type: 2}
+  <FireRate>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 0a56dfe3a2c62124d888cf82110fadd9, type: 2}
+    baseValue:
+      value: 2
+      runtimeValue: {fileID: 11400000, guid: be372fa0c2a3b2345b3be6cf429b1971, type: 2}
+  <SFXRef>k__BackingField:
+    Guid:
+      Data1: 1735392758
+      Data2: 1102782661
+      Data3: -1615983426
+      Data4: 1468011034
+  <ProjectilePrefab>k__BackingField: {fileID: 114703437598541787, guid: 79445d1620330924fada4c23c5296316, type: 2}
+  <SpeedConstant>k__BackingField: 100
+  <ImpactReference>k__BackingField:
+    Guid:
+      Data1: 1528535422
+      Data2: 1180661313
+      Data3: -675105647
+      Data4: -55562380
+  <PierceCount>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: b133c43b37de5b34c9d61fca55a4b1a4, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 0}

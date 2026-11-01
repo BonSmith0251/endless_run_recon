@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fcbf1ce8d812a55bce9220f1505248f, type: 3}
+  m_Name: Langolier Enemy Group
+  m_EditorClassIdentifier:
+  mixEnemies: 0
+  enemies:
+  - config: {fileID: 11400000, guid: 5e42898df4640564e89494da59f52e2c, type: 2}
+    weight: 1
+    pattern: {fileID: 11400000, guid: 13b0fc5e4eef4ae4dadcfa70ff4f526a, type: 2}
+  count: {x: 1, y: 1}

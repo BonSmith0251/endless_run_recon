@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497513c1b1789b44cf071a4ceb183203, type: 3}
+  m_Name: Increase Train Max Health 100 Percent Reward Config
+  m_EditorClassIdentifier:
+  id: 6a2bab66-bd41-474b-8824-ac1ed043ae61
+  eligibilities: []
+  PriceMultiplier: 2
+  <GlobalStatModifierValue>k__BackingField: {fileID: 11400000, guid: ab5045851d03b7048943f1fc039ae351, type: 2}
+  <StatDefinition>k__BackingField: {fileID: 11400000, guid: a69e10fe982c0ff4a8e7109b23962fad, type: 2}
+  <ModifierFactory>k__BackingField:
+    Type: 1
+    value: 2
+    displayAsPercent: 1
+  references:
+    version: 2
+    RefIds: []

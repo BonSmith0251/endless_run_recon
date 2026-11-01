@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fec2b0549c05a34dc4a2a8b3e142d06, type: 3}
+  m_Name: Egg Sequence
+  m_EditorClassIdentifier:
+  <EnterAnimation>k__BackingField: {fileID: 7400000, guid: 446f44a5dd506554194aa60f21c0c56c, type: 2}
+  <ModifierDefinitions>k__BackingField: []
+  <Sequence>k__BackingField:
+  - {fileID: 11400000, guid: 9ad9484abe7ebf54694f2c29a9c3ac33, type: 2}
+  - {fileID: 11400000, guid: fee28038f8941b14bb849efd007bf450, type: 2}
+  - {fileID: 11400000, guid: 3143ec6793530df4ab0ea3bbf4b46eef, type: 2}

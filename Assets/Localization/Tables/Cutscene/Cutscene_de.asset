@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_de
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 30e590581f804cb40b6091dac4b279e6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38846238720
+    m_Localized: "Wir haben die Oberfläche\nvor Jahrzehnten verloren. Sind in den Untergrund geflohen. In die Silos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66927104000
+    m_Localized: "Die Zeit ist scheinbar ... stehen geblieben? Ich bin mir nicht sicher.\nDie Rationen werden knapp. Den Ratten scheint es gut zu gehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99638480896
+    m_Localized: Seit Tagen keine Nachricht von den anderen Silos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124955299840
+    m_Localized: "Ich kann nicht hierbleiben.\nDie Schienen sind vielleicht mein einziger Ausweg."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150704132096
+    m_Localized: Zeit für ein bisschen Musik ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177870639104
+    m_Localized: ... und mal sehen, wie lange ich da draußen durchhalte.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

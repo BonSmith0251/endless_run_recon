@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c398e1e17f95f61d3a122b1b24222f, type: 3}
+  m_Name: I'm Still Alive Sink
+  m_EditorClassIdentifier:
+  trackable: {fileID: 11400000, guid: b14180c520e38974b97f19c3f957a0ce, type: 2}
+  gameEvent: {fileID: 11400000, guid: 9bd9ee4278956044498e864f49be2e2d, type: 2}
+  targetCount: 1
+  conditions:
+  - rid: 4150802796195348633
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802796195348633
+      type: {class: WaveIndexOperation, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        progression: {fileID: 11400000, guid: 0eb99c114a9b5ef4bbea05f4550b67e1, type: 2}
+        targetIdex: 49
+        operation: 4

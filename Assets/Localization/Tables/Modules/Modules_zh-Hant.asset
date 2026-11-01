@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Modules_zh-Hant
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-Hant
+  m_SharedData: {fileID: 11400000, guid: fa59b52434e989b468f541274e3e5b7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4150802888256127272
+  m_TableData:
+  - m_Id: 68
+    m_Localized: '{target}的<color=#FFEB87>{stat}</color> {value}。'
+    m_Metadata:
+      m_Items:
+      - rid: 4150802888256127272
+  - m_Id: 69
+    m_Localized: '<color=#FFEB87>{stat}</color> {value}。'
+    m_Metadata:
+      m_Items:
+      - rid: 4150802888256127272
+  - m_Id: 70
+    m_Localized: 為{target}添加{effect}。
+    m_Metadata:
+      m_Items:
+      - rid: 4150802888256127272
+  - m_Id: 1
+    m_Localized: 火焰噴射器
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: 噴射火焰並造成持續傷害。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: 病毒
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: 危險廢料
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: 鋸齒
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: 對這節車廂周圍的敵人造成傷害。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: 衝鋒槍無人機
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: 衝鋒槍無人機攻速快、射程中，但傷害低。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: 閃電武器
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: 隨機攻擊數名遠距離敵人。並連鎖攻擊其附近敵人。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: 水晶
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: 火焰配件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: 鈾
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: 金條
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: 每到一站，此模組<color=#FFEB87>售價</color>提升 <color=#71FF90>{0}</color>。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: 寒冰噴射器
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: 噴射冷氣，降低敵人移動速度。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: 寒冰配件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: 霰彈槍無人機
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: 霰彈槍無人機近距離傷害高、攻擊範圍廣，但攻速低。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: 擊退配件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: 霰彈槍砲塔
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: 在這節車廂安裝一把霰彈槍。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: 一袋金幣
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: 將其運送至下一站，並獲得 300 金幣。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: 雷達
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: 步槍砲塔
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: 在這節車廂安裝一把步槍。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: 雷射砲塔
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: 在這節車廂安裝一把能造成大量傷害的雷射武器。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: 鈽
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: 穿刺器
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: 快速合併
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: 運送至下一戰後，合併這節車廂所需波次 <color=#71FF90>-1</color>。（最低為 1）
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: 吉他音箱
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: 在列車受到攻擊時，將敵人擊退。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: 收集箱
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: 衝鋒槍砲塔
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: 在這節車廂安裝一把衝鋒槍。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: 氧氣瓶
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: 失落方舟
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: 這節車廂及其相鄰車廂的<color=#FFEB87>所有屬性</color>提升 <color=#71FF90>50%</color>。到達下一站後移除。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: 步槍無人機
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: 步槍無人機傷害高、射程遠，但攻速低。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: 生物燃料
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: 煤油
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: 幸運盆栽
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: 閃電配件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: 油桶
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: 額外刀刃
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: 閃電效果
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: 擊退效果
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: 火焰效果
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: 寒冰效果
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63477153173504
+    m_Localized: UFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63886416580608
+    m_Localized: 閃電稜鏡
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63982336118784
+    m_Localized: 火焰稜鏡
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64299027042304
+    m_Localized: 閃電陷阱
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64387132592128
+    m_Localized: 火焰陷阱
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64431294418944
+    m_Localized: 寒冰陷阱
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169104537128960
+    m_Localized: 用盡的電池
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169206630682624
+    m_Localized: 磁鐵
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169282191069184
+    m_Localized: 控制台
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169354941272064
+    m_Localized: AI 大腦
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169426034724864
+    m_Localized: 閃電球
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169484281024512
+    m_Localized: 火球
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169539100577792
+    m_Localized: 冰球
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169617680863232
+    m_Localized: 衝鋒槍無人機 Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170283866361856
+    m_Localized: 衝鋒槍無人機 Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170364975812608
+    m_Localized: 霰彈槍無人機 Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170445263179776
+    m_Localized: 霰彈槍無人機 Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170501437493248
+    m_Localized: 步槍無人機 Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170570110832640
+    m_Localized: 步槍無人機 Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171116251156480
+    m_Localized: 部署 3 架步槍無人機。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171189659865088
+    m_Localized: 部署 2 架步槍無人機。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171261491515392
+    m_Localized: 部署 3 架霰彈槍無人機。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171309432410112
+    m_Localized: 部署 2 架霰彈槍無人機。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171371550052352
+    m_Localized: 部署 3 架衝鋒槍無人機。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171413325320192
+    m_Localized: 部署 2 架衝鋒槍無人機。
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802888256127272
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 68
+        - id: 69
+        - id: 70

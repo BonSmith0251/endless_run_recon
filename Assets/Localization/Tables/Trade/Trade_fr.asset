@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Trade_fr
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: ecf725be8c7bdf849ac7768ab4fce8b8, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4150802750284497086
+  m_TableData:
+  - m_Id: 32588337152
+    m_Localized: '{value} en <color=#FFEB87>{stat}</color>'
+    m_Metadata:
+      m_Items:
+      - rid: 4150802750284497086
+  - m_Id: 200000000000
+    m_Localized: Dégâts (feu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201000000000
+    m_Localized: Intervalle de dégâts (feu)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202000000000
+    m_Localized: Dégâts (laser)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 203000000000
+    m_Localized: Taux de tir (laser)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204000000000
+    m_Localized: Portée (laser)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205000000000
+    m_Localized: Largeur (laser)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206000000000
+    m_Localized: Nombre de chaînes (foudre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207000000000
+    m_Localized: Dégâts (foudre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208000000000
+    m_Localized: Taux de tir (foudre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209000000000
+    m_Localized: Chance de critique (fusil)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210000000000
+    m_Localized: Dégâts (fusil)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211000000000
+    m_Localized: Taux de tir (fusil)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212000000000
+    m_Localized: Portée (fusil)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213000000000
+    m_Localized: Chance de critique (mitraillette)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214000000000
+    m_Localized: Dégâts (mitraillette)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215000000000
+    m_Localized: Taux de tir (mitraillette)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216000000000
+    m_Localized: Portée (mitraillette)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217000000000
+    m_Localized: Dégâts (scie circulaire)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218000000000
+    m_Localized: Portée (scie circulaire)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219000000000
+    m_Localized: Vitesse de rotation (scie circulaire)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220000000000
+    m_Localized: Nombre d'armes (scie circulaire)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221000000000
+    m_Localized: Chance de critique (fusil à pompe)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222000000000
+    m_Localized: Dégâts (fusil à pompe)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223000000000
+    m_Localized: Taux de tir (fusil à pompe)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224000000000
+    m_Localized: Portée (fusil à pompe)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497086
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 32588337152

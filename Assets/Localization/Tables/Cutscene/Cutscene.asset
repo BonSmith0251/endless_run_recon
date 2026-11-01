@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Cutscene
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 30e590581f804cb40b6091dac4b279e6, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 087de63facceb34499a40b07a1d37fb0, type: 2}
+  - {fileID: 11400000, guid: d80307481f1df6340861d1432371f944, type: 2}
+  - {fileID: 11400000, guid: 7a0c7294926dc154f87fbe5802589433, type: 2}
+  - {fileID: 11400000, guid: fe5c11aab9a3877438a0984e1e4d146c, type: 2}
+  - {fileID: 11400000, guid: 461731e1db7d0464b89987b647fb6a8c, type: 2}
+  - {fileID: 11400000, guid: 032dc7301a38cfb498c10238d9a89021, type: 2}
+  - {fileID: 11400000, guid: 59e18086948f4c246b9e215f5f227fe2, type: 2}
+  - {fileID: 11400000, guid: b2153a30efd30904eb4646c6ac26a7cb, type: 2}
+  - {fileID: 11400000, guid: 9a48cc9ea21ff9743b7ea3c2a6534dce, type: 2}
+  - {fileID: 11400000, guid: b4943f14f4621bf4fad1e1aa4d6e116f, type: 2}
+  - {fileID: 11400000, guid: de7bb8b24385b144a883d194a3bb4c88, type: 2}
+  - {fileID: 11400000, guid: 237951b979943354b9e50a79556ba494, type: 2}
+  - {fileID: 11400000, guid: dd8614be635c80444aee8e21d2fe79ca, type: 2}
+  - {fileID: 11400000, guid: 26e5b69244efc1c4d9957af3956e9188, type: 2}
+  - {fileID: 11400000, guid: e24026262f19b22409e1f5eb7d8d5a84, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

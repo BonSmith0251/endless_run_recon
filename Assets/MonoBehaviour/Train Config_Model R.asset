@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd61c50b4182c3ed5081d872c76e181d, type: 3}
+  m_Name: Train Config_Model R
+  m_EditorClassIdentifier:
+  id: b25ff8f1-f7df-480e-a773-5bbb12be991a
+  <LocoData>k__BackingField: {fileID: 11400000, guid: de37973af24c8c849b851aa8fd0f5696, type: 2}
+  <InitialCarts>k__BackingField: []
+  <InitialModule>k__BackingField: {fileID: 11400000, guid: 0e6d3a9c687426640af430b1212630fb, type: 2}
+  <Stats>k__BackingField:
+  - StatDefinition: {fileID: 11400000, guid: a69e10fe982c0ff4a8e7109b23962fad, type: 2}
+    baseValue:
+      value: 300
+      runtimeValue: {fileID: 11400000, guid: c8631321eca489443958bb844ae2a2c2, type: 2}
+  - StatDefinition: {fileID: 11400000, guid: 516f5fbd486c26848b797ef94fbe7925, type: 2}
+    baseValue:
+      value: 10
+      runtimeValue: {fileID: 11400000, guid: 91049ed84f460f94db43e48a0e0529ce, type: 2}
+  - StatDefinition: {fileID: 11400000, guid: 85e6ee8a0473c9f4eaf3f6669fc95e8c, type: 2}
+    baseValue:
+      value: 15
+      runtimeValue: {fileID: 11400000, guid: a37a4689386a2084a8e083d06c500253, type: 2}
+  - StatDefinition: {fileID: 11400000, guid: 5e37c8980e4916a4d94ac5174ca58e06, type: 2}
+    baseValue:
+      value: 0.05
+      runtimeValue: {fileID: 11400000, guid: 12ee0f0b4c71b52489b75532a8dff260, type: 2}
+  - StatDefinition: {fileID: 11400000, guid: ba3db99562798fa41966329bd34b3af1, type: 2}
+    baseValue:
+      value: 6
+      runtimeValue: {fileID: 11400000, guid: 1cde4bef68373ff4a87e5e0103af28bf, type: 2}
+  - StatDefinition: {fileID: 11400000, guid: 480cf335b8c28a64294a084731583a3b, type: 2}
+    baseValue:
+      value: 3
+      runtimeValue: {fileID: 11400000, guid: 86022044dc4bcb84cb2fca906937031c, type: 2}
+  - StatDefinition: {fileID: 11400000, guid: d19ff6a95bc139b4eae3918576f1863b, type: 2}
+    baseValue:
+      value: 1
+      runtimeValue: {fileID: 11400000, guid: 2ec45f53baab74d45bec1bb88925e0a2, type: 2}
+  <AbiltiyConfig>k__BackingField: {fileID: 11400000, guid: b4f11da448877ce4aba65d0f4df85841, type: 2}

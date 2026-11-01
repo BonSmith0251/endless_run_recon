@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e03c8af7d4e8e8cb9c72b9b12a9d5f5, type: 3}
+  m_Name: Increase Lightning Chain Count 2 Reward Config
+  m_EditorClassIdentifier:
+  id: 1fe07b8c-84dd-4c70-b56e-c1dfc9019af9
+  eligibilities:
+  - rid: 4150802750284497010
+  PriceMultiplier: 1.5
+  <RuntimeValue>k__BackingField: {fileID: 11400000, guid: d4876ce71052e574f8129a21b02ca92d, type: 2}
+  <Step>k__BackingField: 2
+  valueFormat: 0
+  statName:
+    m_TableReference:
+      m_TableCollectionName: GUID:ecf725be8c7bdf849ac7768ab4fce8b8
+    m_TableEntryReference:
+      m_KeyId: 206000000000
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497010
+      type: {class: Any, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        inner:
+        - rid: 4150802750284497013
+        - rid: 4150802750284497014
+    - rid: 4150802750284497013
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: a797728fa98b5f24f9a2c83d037f722f, type: 2}
+    - rid: 4150802750284497014
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: 1f5bd0fc4de9ca94fa941518b171b1e9, type: 2}

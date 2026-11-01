@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop Actions_pt-BR
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: f27607258003371488d387b8132cdc75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Combinar vagões
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Combine vagões da mesma raridade para aumentar os espaços para módulos e conseguir vantagens poderosas.\n<color=#FFEB87>Combinar vagões leva tempo.</color> Há um contador que indica quantas estações precisam ser superadas para concluir o processo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Adicionar Vagão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Adicione um vagão comum novo ao trem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Consertar Trem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Conserte o trem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Redefinir Loja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Redefina os produtos da loja. A cada redefinição, os preços aumentam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20629577020379136
+    m_Localized: Compra Concluída
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

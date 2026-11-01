@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497513c1b1789b44cf071a4ceb183203, type: 3}
+  m_Name: Increase Dominance Duration 50 Percent Reward Config
+  m_EditorClassIdentifier:
+  id: 8fa96201-e534-4770-b01b-c460d4a84c5e
+  eligibilities:
+  - rid: 4150802750284497018
+  PriceMultiplier: 2
+  <GlobalStatModifierValue>k__BackingField: {fileID: 11400000, guid: ab5045851d03b7048943f1fc039ae351, type: 2}
+  <StatDefinition>k__BackingField: {fileID: 11400000, guid: 42169f71fcf64484c8407356730fe137, type: 2}
+  <ModifierFactory>k__BackingField:
+    Type: 1
+    value: 1.5
+    displayAsPercent: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497018
+      type: {class: HasAbility, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        abilityConfig: {fileID: 11400000, guid: 7dd8c0f818c0f50409994c641b204496, type: 2}

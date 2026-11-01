@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c5fbd50abbaffcad65888f6b5887c6b, type: 3}
+  m_Name: Multi Dodge Chance and Harvest
+  m_EditorClassIdentifier:
+  id: 69047482-974e-40ed-9899-47a8430ce1c6
+  eligibilities: []
+  PriceMultiplier: 2
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: 704502f1cbb9ccd4fb9384135d6ccd1c, type: 2}
+  - {fileID: 11400000, guid: 582feb481a7f507478a71cd668c312c8, type: 2}
+  references:
+    version: 2
+    RefIds: []

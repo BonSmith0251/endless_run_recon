@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Settings_ru
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ru
+  m_SharedData: {fileID: 11400000, guid: a237a7620673fb64a94f7e98e09cf976, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Видео
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Аудио
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Разрешение
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Режим отображения
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Полноэкранный
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: В окне без рамки
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Развернутое окно
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Оконный
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Общая громкость
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Громкость музыки
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Громкость эффектов
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214931555442688
+    m_Localized: Общие
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215303934140416
+    m_Localized: Язык
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971126148468736
+    m_Localized: 'Дрон: вверх'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971158490746880
+    m_Localized: 'Дрон: вниз'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971295887757312
+    m_Localized: 'Дрон: влево'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971326996910080
+    m_Localized: 'Дрон: вправо'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971844850847744
+    m_Localized: Движение дрона
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971374082166784
+    m_Localized: Активация способности
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971413206634496
+    m_Localized: Ускорение поезда
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971449701273600
+    m_Localized: Торможение поезда
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13281932249567232
+    m_Localized: Изменить назначение
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22421636475686912
+    m_Localized: Сбросить прогресс
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30435869129871360
+    m_Localized: V-Sync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438747974307840
+    m_Localized: Вкл.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438872465444864
+    m_Localized: Выкл.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

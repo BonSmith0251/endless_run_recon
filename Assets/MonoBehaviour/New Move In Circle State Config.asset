@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671004eb638128ce7712cd00b4c02312, type: 3}
+  m_Name: New Move In Circle State Config
+  m_EditorClassIdentifier:
+  <EnterAnimation>k__BackingField: {fileID: 7400000, guid: 1b49ee994933cde4987acf22c121c152, type: 2}
+  <ModifierDefinitions>k__BackingField:
+  - statDefinition: {fileID: 11400000, guid: 0aab63035c6af8946910f9f4be521536, type: 2}
+    modifierFactory:
+      Type: 1
+      value: 2
+      displayAsPercent: 0
+  <TrainRuntimeValue>k__BackingField: {fileID: 11400000, guid: b11b05da5199d724a8c1e367d7a73439, type: 2}
+  <RadiusProvider>k__BackingField:
+    rid: 8249320394918199449
+  <MinAngleDegrees>k__BackingField: 720
+  <MaxAngleDegrees>k__BackingField: 1080
+  references:
+    version: 2
+    RefIds:
+    - rid: 8249320394918199449
+      type: {class: TrainBoundsRadiusProvider, ns: Monoblok.Enemy.AI, asm: Assembly-CSharp}
+      data:
+        trainRuntimeValue: {fileID: 11400000, guid: b11b05da5199d724a8c1e367d7a73439, type: 2}
+        padding: 8

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c398e1e17f95f61d3a122b1b24222f, type: 3}
+  m_Name: Old Train Good Train Sink
+  m_EditorClassIdentifier:
+  trackable: {fileID: 11400000, guid: f8e43628120089e47a1c156d58f9ad19, type: 2}
+  gameEvent: {fileID: 11400000, guid: 70b2fa3e64ac52b4684447b807985722, type: 2}
+  targetCount: 1
+  conditions:
+  - rid: 4150802796195348629
+  - rid: 4150802796195348630
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802796195348629
+      type: {class: MatchTrainConfig, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        trainRuntimeValue: {fileID: 11400000, guid: b11b05da5199d724a8c1e367d7a73439, type: 2}
+        targetConfig: {fileID: 11400000, guid: 8e1bcd115a6809a4bb0086afa1b0610a, type: 2}
+    - rid: 4150802796195348630
+      type: {class: WaveIndexOperation, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        progression: {fileID: 11400000, guid: 0eb99c114a9b5ef4bbea05f4550b67e1, type: 2}
+        targetIdex: 19
+        operation: 4

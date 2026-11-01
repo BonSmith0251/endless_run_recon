@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea2b77f0a1d751d1bde5e2d19cc44b3, type: 3}
+  m_Name: FireDamageRate
+  m_EditorClassIdentifier:
+  id: acb00436-9b20-4eea-a382-e34af2c7162e
+  fallbackName:
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 63982336118784
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 26356a0619af58b428e009ac268b2283, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 500
+  <IsOffered>k__BackingField: 1
+  eligibilities:
+  - rid: 8249320736006602893
+  prefab: {fileID: 114618682377417806, guid: 0eddd4fd6cb867d4baa95441ce63d95e, type: 2}
+  rules:
+  - targetProvider:
+      rid: 8249320736006602892
+    statDefinition: {fileID: 11400000, guid: 25e02d2b63d36ee4093031664e316793, type: 2}
+    modifierFactory:
+      Type: 0
+      value: 0.3
+      displayAsPercent: 0
+    maxValue: Infinity
+    buffOrDebuff: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 8249320736006602892
+      type: {class: ProximityCartProvider, ns: Monoblok.Train, asm: Assembly-CSharp}
+      data:
+        range: 1
+    - rid: 8249320736006602893
+      type: {class: Any, ns: Monoblok.Upgrades, asm: Assembly-CSharp}
+      data:
+        inner:
+        - rid: 8249320736006602894
+        - rid: 8249320736006602895
+    - rid: 8249320736006602894
+      type: {class: HasModule, ns: Monoblok.Upgrades, asm: Assembly-CSharp}
+      data:
+        module: {fileID: 11400000, guid: 3616c693c6318b7488b73c3ade88889c, type: 2}
+    - rid: 8249320736006602895
+      type: {class: HasModule, ns: Monoblok.Upgrades, asm: Assembly-CSharp}
+      data:
+        module: {fileID: 11400000, guid: b57ca40c0b2b6744790a6948655e1a61, type: 2}

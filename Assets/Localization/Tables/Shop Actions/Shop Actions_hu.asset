@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop Actions_hu
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: f27607258003371488d387b8132cdc75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Összevonás
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Vonj össze azonos szintű vagonokat, hogy több foglalatot és stat bónuszokat kapj. \n<color=#FFEB87>Az összevonás nem azonnali.</color> A vonat feletti számláló jelzi, hogy hány állomás után megy végbe a vagonok összevonása.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Új vagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Új egyszerű vagont ad hozzá a vonathoz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Javítás
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Megjavítja a vonatot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Újraosztás
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Új árukat mutat a boltban. Minden újraosztás egyre drágább.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20629577020379136
+    m_Localized: Megvéve
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

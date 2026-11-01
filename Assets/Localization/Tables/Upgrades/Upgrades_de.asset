@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Upgrades_de
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: d190915228639d34e83912a8f01e9377, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Sprint-Abklingzeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Sprint-Aufladungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Sprint-Distanz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Dominanz-Abklingzeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Dominanz-Aufladungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Dominanz-Dauer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Rückstoß-Abklingzeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Rückstoß-Aufladungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Rückstoß-Distanz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Rückstoß-Radius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Dredger-Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Gewehr-Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Gewehr-Feuerrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Gewehr-Reichweite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: MP-Drohne-Krit. Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: MP-Drohne-Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: MP-Drohne-Feuerrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: MP-Reichweite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Schrotflinte-Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Schrotflinte-Feuerrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Schrotflinte-Reichweite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: Dredger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Fügt Gegnern Schaden zu, wenn du sie mit der Lokomotive überfährst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Model T
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: Schaltet Model T in der Lok-Auswahl frei.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: Model R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: Schaltet Model R in der Lok-Auswahl frei.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: '{value} zu {stat}.'
+    m_Metadata:
+      m_Items:
+      - rid: 26
+  references:
+    version: 2
+    RefIds:
+    - rid: 26
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []

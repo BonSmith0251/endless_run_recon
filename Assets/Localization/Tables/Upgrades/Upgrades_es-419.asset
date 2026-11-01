@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Upgrades_es-419
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: es-419
+  m_SharedData: {fileID: 11400000, guid: d190915228639d34e83912a8f01e9377, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8249320803459400026
+  m_TableData:
+  - m_Id: 89
+    m_Localized: '{value} a {stat}.'
+    m_Metadata:
+      m_Items:
+      - rid: 8249320803459400026
+  - m_Id: 1
+    m_Localized: Enfriamiento de impulso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Cargas de impulso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Distancia de impulso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Enfriamiento de dominio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Cargas de dominio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Duración de dominio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Enfriamiento de retroceso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Cargas de retroceso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Distancia de retroceso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Radio de retroceso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Daño de triturador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Daño de fusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Cad. de disparo de fusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Alcance de fusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: Prob. de crít. de dron subfusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Daño de dron subfusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Cad. de disp. de dron subfusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Alcance de subfusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Daño de escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Cad. de disp. de escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Alcance de escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: Triturador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Inflige daño a los enemigos al atropellarlos con la locomotora.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Modelo T
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: Desbloquea el Modelo T en el selector de locomotoras.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: Modelo R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: Desbloquea el Modelo R en el selector de locomotoras.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8249320803459400026
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 89

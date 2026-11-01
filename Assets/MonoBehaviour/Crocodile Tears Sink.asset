@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 471f73bc6dd5dc4ae45a5e3b60858519, type: 3}
+  m_Name: Crocodile Tears Sink
+  m_EditorClassIdentifier:
+  trackable: {fileID: 11400000, guid: 6f24998cc6945334b81ad8e6a2f289e1, type: 2}
+  gameEvent: {fileID: 11400000, guid: 8f455c69600b45a42bdfe5aa0a7d391d, type: 2}
+  conditions:
+  - rid: 4150802716516679681
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802716516679681
+      type: {class: MatchEnemyConfigCondition, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        config: {fileID: 11400000, guid: ba90480610053ef4b8676bb4e72f4c41, type: 2}

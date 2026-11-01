@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c5fbd50abbaffcad65888f6b5887c6b, type: 3}
+  m_Name: Multi Dominance
+  m_EditorClassIdentifier:
+  id: efe8450d-263b-468d-9d02-b3cb311c2c09
+  eligibilities: []
+  PriceMultiplier: 2
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: de6e1ec8e62e1da48af5d8a8e54f5cb2, type: 2}
+  - {fileID: 11400000, guid: f98127c0071297f48b378516ca60e812, type: 2}
+  references:
+    version: 2
+    RefIds: []

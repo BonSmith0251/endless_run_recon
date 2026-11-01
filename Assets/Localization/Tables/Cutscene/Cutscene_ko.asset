@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_ko
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 30e590581f804cb40b6091dac4b279e6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38846238720
+    m_Localized: "수십 년 전 삶의 터전을 잃은 사람들은\n지하 곡창으로 숨어들었다."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66927104000
+    m_Localized: "시간이... 얼마나 흘렀을까? 기억도 나지 않는다.\n식량은 바닥나고 있었지만, 쥐들은 살이 쪄가고 있었다."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99638480896
+    m_Localized: 며칠째 다른 곡창의 소식을 듣지 못했다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124955299840
+    m_Localized: "더는 여기에 있을 수 없다.\n철로가 내 유일한 탈출구일지도..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150704132096
+    m_Localized: 음악을 좀 틀어볼까...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177870639104
+    m_Localized: 과연 내가 밖에서 얼마나 버틸 수 있을지...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

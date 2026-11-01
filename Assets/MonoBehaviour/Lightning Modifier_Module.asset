@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00300746ce158c5d171eb77c92e8327f, type: 3}
+  m_Name: Lightning Modifier_Module
+  m_EditorClassIdentifier:
+  id: fedb2738-ecc9-47c9-a4b3-f50f66618332
+  fallbackName:
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 63
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 4fe8880f9ca80f0438281e1e613399a7, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 400
+  <IsOffered>k__BackingField: 1
+  eligibilities: []
+  prefab: {fileID: 114703437598541787, guid: 9947088ce3e48204692ce69fb2ddab2d, type: 2}
+  targetProvider:
+    rid: 8249320508116959353
+  <ModifierDefinition>k__BackingField: {fileID: 11400000, guid: 01ec92255367dc445993616f2c1aded4, type: 2}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8249320508116959353
+      type: {class: ProximityCartProvider, ns: Monoblok.Train, asm: Assembly-CSharp}
+      data:
+        range: 1

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea2b77f0a1d751d1bde5e2d19cc44b3, type: 3}
+  m_Name: Lightning Ball
+  m_EditorClassIdentifier:
+  id: a1c92e10-4b3a-4f2e-9a11-000000000005
+  fallbackName: Lightning Ball
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 2169426034724864
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: bc001525bd2bb184eb23433f27671129, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 3200
+  <IsOffered>k__BackingField: 1
+  eligibilities:
+  - rid: 1
+  prefab: {fileID: 114618682377417806, guid: 0eddd4fd6cb867d4baa95441ce63d95e, type: 2}
+  rules:
+  - targetProvider:
+      rid: 4
+    statDefinition: {fileID: 11400000, guid: f77c04a5953d34544b0344c97e0f19d3, type: 2}
+    modifierFactory:
+      Type: 0
+      value: 3
+      displayAsPercent: 0
+    maxValue: Infinity
+    buffOrDebuff: 1
+  - targetProvider:
+      rid: 5
+    statDefinition: {fileID: 11400000, guid: cd3ca6ffdfa36c34ab6f039e9db7af53, type: 2}
+    modifierFactory:
+      Type: 0
+      value: 20
+      displayAsPercent: 0
+    maxValue: Infinity
+    buffOrDebuff: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 1
+      type: {class: Any, ns: Monoblok.Upgrades, asm: Assembly-CSharp}
+      data:
+        inner:
+        - rid: 2
+        - rid: 3
+    - rid: 2
+      type: {class: HasModule, ns: Monoblok.Upgrades, asm: Assembly-CSharp}
+      data:
+        module: {fileID: 11400000, guid: a797728fa98b5f24f9a2c83d037f722f, type: 2}
+    - rid: 3
+      type: {class: HasModule, ns: Monoblok.Upgrades, asm: Assembly-CSharp}
+      data:
+        module: {fileID: 11400000, guid: 1f5bd0fc4de9ca94fa941518b171b1e9, type: 2}
+    - rid: 4
+      type: {class: AllCartProvider, ns: Monoblok.Train, asm: Assembly-CSharp}
+      data: {}
+    - rid: 5
+      type: {class: AllCartProvider, ns: Monoblok.Train, asm: Assembly-CSharp}
+      data: {}

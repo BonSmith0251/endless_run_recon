@@ -1,0 +1,371 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Modules_pt-BR
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: fa59b52434e989b468f541274e3e5b7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: -2
+    - rid: 4150802661017911434
+  m_TableData:
+  - m_Id: 20
+    m_Localized: O <color=#FFEB87>Valor de venda</color> deste módulo foi aumentado em <color=#71FF90>{0}</color> em cada estação.
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 68
+    m_Localized: '{value} de <color=#FFEB87>{stat}</color> {target}.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 4150802661017911434
+  - m_Id: 69
+    m_Localized: '{value} de <color=#FFEB87>{stat}</color>.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: -2
+      - rid: 4150802661017911434
+  - m_Id: 70
+    m_Localized: Adiciona {effect} {target}.
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911434
+  - m_Id: 1
+    m_Localized: Lança-chamas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Incendeie seus inimigos causando dano com o tempo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Vírus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Lixo Tóxico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Lâmina Serrada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Causa dano circular a partir deste vagão.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Drone SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Esse tipo de drone possui uma frequência alta de tiro à média distância, mas causa pouco dano.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Arma Elétrica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Atira nos inimigos à longo alcance, podendo encadear vários de uma vez.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Cristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Modificador de Fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Urânio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Barras de Ouro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Canhão Gélido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Atira projéteis gelados para desacelerar os inimigos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Modificador de Gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Drone-escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Esse tipo de drone consegue dar dano alto a vários inimigos de uma vez à curta distância, mas possui baixa frequência de tiro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Modificador do Empurrão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: Torreta-escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Posiciona uma escopeta neste vagão.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: Saco de Moedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Deixe-o na próxima estação para receber 300 moedas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: Radar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Torreta-rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Posiciona um rifle neste vagão.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Torreta-laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: Posiciona um poderoso laser neste vagão.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Plutônio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Perfurador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Combinação Rápida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: '<color=#71FF90>-1</color> no número de ondas para combinar este vagão ao chegar na próxima estação (mín. 1).'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: Amplificador de Guitarra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: Derruba os inimigos quando o trem é atingido.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Coletor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Torreta SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Posiciona uma torreta SMG em um vagão.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Tanque de Oxigênio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: Abrigo Perdido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: Fornece um bônus de<color=#71FF90>+50%</color> para <color=#FFEB87>todos os equipamentos </color> no vagão atual e adjacentes. É removido ao chegar à próxima estação.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Drone-rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Esse tipo de drone consegue fazer estrago à longa distância, mas possui baixa frequência de tiro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Biocombustível
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Querosene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: Ganho de Moedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Modificador Elétrico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Barris de Petróleo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: Lâminas Extra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: Habilidade Elétrica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Habilidade de Empurrão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Habilidade de Fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: Habilidade de Gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63477153173504
+    m_Localized: ÓVNI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63886416580608
+    m_Localized: Prisma Elétrico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63982336118784
+    m_Localized: Prisma de Fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64299027042304
+    m_Localized: Armadilha Elétrica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64387132592128
+    m_Localized: Armadilha de Fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64431294418944
+    m_Localized: Armadilha de Gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169104537128960
+    m_Localized: Bateria Descarregada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169206630682624
+    m_Localized: Imã
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169282191069184
+    m_Localized: Estação de Controle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169354941272064
+    m_Localized: Cérebro da IA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169426034724864
+    m_Localized: Bola Elétrica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169484281024512
+    m_Localized: Bola de Fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169539100577792
+    m_Localized: Bola de Gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169617680863232
+    m_Localized: Super Drone SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170283866361856
+    m_Localized: Super Max Drone SMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170364975812608
+    m_Localized: Super Drone-escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170445263179776
+    m_Localized: Super Max Drone-escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170501437493248
+    m_Localized: Super Drone-rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170570110832640
+    m_Localized: Super Max Drone-rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171116251156480
+    m_Localized: Posiciona 3 drones-rifle de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171189659865088
+    m_Localized: Posiciona 2 drones-rifle de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171261491515392
+    m_Localized: Posiciona 3 drones-escopeta de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171309432410112
+    m_Localized: Posiciona 2 drones-escopeta de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171371550052352
+    m_Localized: Posiciona 3 drones SMG de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171413325320192
+    m_Localized: Posiciona 2 drones SMG de combate.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class:, ns:, asm:}
+      data: {}
+    - rid: 4150802661017911434
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 68
+        - id: 69
+        - id: 70

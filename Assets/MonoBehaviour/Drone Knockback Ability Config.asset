@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6159a3b0ff12fab09fa5242886d54e1d, type: 3}
+  m_Name: Drone Knockback Ability Config
+  m_EditorClassIdentifier:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:d22d65d5c33193441a0b9f337179ff6b
+    m_TableEntryReference:
+      m_KeyId: 5
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:d22d65d5c33193441a0b9f337179ff6b
+    m_TableEntryReference:
+      m_KeyId: 6
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Icon>k__BackingField: {fileID: 21300000, guid: bc75ab3c8f83d48469c19beb16c76052, type: 2}
+  <Cooldown>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: e79dda6206b12f849914192d415c132c, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 11400000, guid: c8522bbe4b80fa44a85d50f20f4d03f7, type: 2}
+  <MaxCharges>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 8e79e13a40a908c48a5ad73be22a09a3, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 11400000, guid: f4407f2f86b188446af9d7b96e84eba5, type: 2}
+  <PerformRef>k__BackingField:
+    Guid:
+      Data1: -255206702
+      Data2: 1104594025
+      Data3: -684336705
+      Data4: -1517812776
+  <PerformEvent>k__BackingField: {fileID: 0}
+  globalStatManagerRuntimeValue: {fileID: 11400000, guid: ab5045851d03b7048943f1fc039ae351, type: 2}
+  playerDronesValue: {fileID: 11400000, guid: eb9b579306c1a194f8a9a2c68a6da7db, type: 2}
+  <Radius>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 80f5507fc6449504982a553899c21f48, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 11400000, guid: f1274b61bf2f2c847a341b28435a535f, type: 2}
+  <Distance>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 0aca57eff0033f1488959bd819cc0d01, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 11400000, guid: a8911d1db0640b142a41900d2024ea4e, type: 2}
+  references:
+    version: 2
+    RefIds: []

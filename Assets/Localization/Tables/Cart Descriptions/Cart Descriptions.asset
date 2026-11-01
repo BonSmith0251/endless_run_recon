@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Cart Descriptions
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 140441527868c8e448cfab91c70d9b43, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 490dd5d5e37e02345b6f1ea82c2bca6f, type: 2}
+  - {fileID: 11400000, guid: 8dd81b4d6e10d2a418dc6adb774d6d46, type: 2}
+  - {fileID: 11400000, guid: 097db0ba0ce0bcd4ea3760305f53706c, type: 2}
+  - {fileID: 11400000, guid: 9b6e606b7ce8a004a8f7a2f9923ddd38, type: 2}
+  - {fileID: 11400000, guid: 8a4b12b0634c40343a63683b5b4ea736, type: 2}
+  - {fileID: 11400000, guid: 5143138ebbea0db4784853466ea1fdf0, type: 2}
+  - {fileID: 11400000, guid: 1422864aeb9b74f4980de10933ad9c53, type: 2}
+  - {fileID: 11400000, guid: b6335f56c2acf654991b4b23373c50b2, type: 2}
+  - {fileID: 11400000, guid: 836d750f1534ae14c94b09d2fb3e1775, type: 2}
+  - {fileID: 11400000, guid: 09fdc0c1e268fdd4784b6402db487efe, type: 2}
+  - {fileID: 11400000, guid: 8c5f8f3717c90d145afa6bc9a92a6422, type: 2}
+  - {fileID: 11400000, guid: dd5a9d6c1763cf24da115919789fd2bd, type: 2}
+  - {fileID: 11400000, guid: 55cccdb8b37f1834cb9677eb21e8d066, type: 2}
+  - {fileID: 11400000, guid: 7f0cb9f45c8eb0946adba688d5f7c8d3, type: 2}
+  - {fileID: 11400000, guid: c92072a173ab2e942a6b42a6c937e83d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

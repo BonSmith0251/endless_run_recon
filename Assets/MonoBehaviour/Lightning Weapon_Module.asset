@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a9f195a637cc988fb31147be652684, type: 3}
+  m_Name: Lightning Weapon_Module
+  m_EditorClassIdentifier:
+  id: c764d988-c83a-4fbc-b579-f783ddb33a3a
+  fallbackName:
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 11
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 12
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 69758c039ba755a4e9f10dd73018ab19, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 600
+  <IsOffered>k__BackingField: 1
+  eligibilities: []
+  prefab: {fileID: 114703437598541787, guid: 0220f14ab62381c42a146bc41a41c8ba, type: 2}
+  <Config>k__BackingField: {fileID: 11400000, guid: b6ff75fbbaa313d43ae2a833625c9fb2, type: 2}
+  references:
+    version: 2
+    RefIds: []

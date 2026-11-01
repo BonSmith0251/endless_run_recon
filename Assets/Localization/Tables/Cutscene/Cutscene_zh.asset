@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_zh
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh
+  m_SharedData: {fileID: 11400000, guid: 30e590581f804cb40b6091dac4b279e6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38846238720
+    m_Localized: "几十年前，地表沦丧。\n人们被迫退入地下。躲入谷仓。"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66927104000
+    m_Localized: "时间似乎……停滞一般，我也说不准。\n口粮慢慢消耗殆尽。老鼠活得倒是滋润。"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99638480896
+    m_Localized: 几天来，一直没有收到其他谷仓的消息。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124955299840
+    m_Localized: "我不能坐以待毙。\n铁路或许是我唯一的出路。"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150704132096
+    m_Localized: 是时候放点音乐了……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177870639104
+    m_Localized: ……看看我能在外面坚持多久。
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_zh-Hant
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-Hant
+  m_SharedData: {fileID: 11400000, guid: 30e590581f804cb40b6091dac4b279e6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38846238720
+    m_Localized: 「幾十年前，地表淪喪。人們被迫退入地下。躲入穀倉。」
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66927104000
+    m_Localized: 「時間似乎……停滯一般，我也說不準。口糧慢慢消耗殆盡。老鼠活得倒是滋潤。」
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99638480896
+    m_Localized: 幾天來，一直沒有收到其他穀倉的消息。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124955299840
+    m_Localized: 「我不能坐以待斃。鐵路或許是我唯一的出路。」
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150704132096
+    m_Localized: 是時候放點音樂了……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177870639104
+    m_Localized: ……看看我能在外面堅持多久。
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

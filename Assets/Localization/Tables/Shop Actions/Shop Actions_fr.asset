@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop Actions_fr
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: f27607258003371488d387b8132cdc75, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Fusionner wagons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Fusionnez des wagons de même rang afin d'augmenter le nombre d'emplacements de modules et d'obtenir des bonus puissants.\n<color=#FFEB87>La fusion n'est pas instantanée.</color> Le compteur indique le nombre de stations auxquelles vous devez survivre pour que la fusion ait lieu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Ajouter un wagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Ajoutez un nouveau wagon classique au train.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Réparer un train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Réparez le train.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Réinitialiser la boutique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Réinitialisez la boutique. Les prix augmentent avec chaque réinitialisation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20629577020379136
+    m_Localized: Acheté(e)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e03c8af7d4e8e8cb9c72b9b12a9d5f5, type: 3}
+  m_Name: Increase Shotgun Damage 8 Reward Config
+  m_EditorClassIdentifier:
+  id: ff60d89e-1abe-4337-9e16-20b9fd006997
+  eligibilities:
+  - rid: 4150802750284497042
+  PriceMultiplier: 1.5
+  <RuntimeValue>k__BackingField: {fileID: 11400000, guid: f63b7769bc7e4b3448c9a31a4d11f20c, type: 2}
+  <Step>k__BackingField: 8
+  valueFormat: 0
+  statName:
+    m_TableReference:
+      m_TableCollectionName: GUID:ecf725be8c7bdf849ac7768ab4fce8b8
+    m_TableEntryReference:
+      m_KeyId: 222000000000
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4150802750284497042
+      type: {class: Any, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        inner:
+        - rid: 4150802750284497043
+        - rid: 4150802750284497044
+        - rid: 4150802750284497045
+        - rid: 4150802750284497046
+    - rid: 4150802750284497043
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: e2a1ffae40b740b4f8a245420c915e64, type: 2}
+    - rid: 4150802750284497044
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: 10455dacbe5fd5a41913845eb446526e, type: 2}
+    - rid: 4150802750284497045
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: a5a1ea38c54542c42a4e2a45f8aa558b, type: 2}
+    - rid: 4150802750284497046
+      type: {class: HasModule, ns: Monoblok, asm: Assembly-CSharp}
+      data:
+        moduleDefinition: {fileID: 11400000, guid: 0e67250aa59193e4da5bebbdd2e92445, type: 2}

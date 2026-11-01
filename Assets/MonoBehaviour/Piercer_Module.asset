@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea2b77f0a1d751d1bde5e2d19cc44b3, type: 3}
+  m_Name: Piercer_Module
+  m_EditorClassIdentifier:
+  id: 766a2e17-b6f0-4929-a1f2-9173bbfb1fb6
+  fallbackName:
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 41
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 7f183f6aa4677a3449dd3e979e514d14, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 450
+  <IsOffered>k__BackingField: 1
+  eligibilities: []
+  prefab: {fileID: 114618682377417806, guid: 0eddd4fd6cb867d4baa95441ce63d95e, type: 2}
+  rules:
+  - targetProvider:
+      rid: 8249320508116959358
+    statDefinition: {fileID: 11400000, guid: b133c43b37de5b34c9d61fca55a4b1a4, type: 2}
+    modifierFactory:
+      Type: 0
+      value: 1
+      displayAsPercent: 0
+    maxValue: Infinity
+    buffOrDebuff: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 8249320508116959358
+      type: {class: ProximityCartProvider, ns: Monoblok.Train, asm: Assembly-CSharp}
+      data:
+        range: 1

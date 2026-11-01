@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea2b77f0a1d751d1bde5e2d19cc44b3, type: 3}
+  m_Name: Damage To Adjacent Module
+  m_EditorClassIdentifier:
+  id: 2290db02-26e4-4139-b8d8-86bb5ac173d5
+  fallbackName:
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 39
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 057c3aecd2e120743b31968329815fa8, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 300
+  <IsOffered>k__BackingField: 1
+  eligibilities: []
+  prefab: {fileID: 114618682377417806, guid: 0eddd4fd6cb867d4baa95441ce63d95e, type: 2}
+  rules:
+  - targetProvider:
+      rid: 8249320508116959349
+    statDefinition: {fileID: 11400000, guid: e63dd4ac5c736ef4eb497b35746d2b2c, type: 2}
+    modifierFactory:
+      Type: 1
+      value: 1.25
+      displayAsPercent: 0
+    maxValue: 3.4028235E+38
+    buffOrDebuff: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 8249320508116959349
+      type: {class: ProximityCartProvider, ns: Monoblok.Train, asm: Assembly-CSharp}
+      data:
+        range: 1

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Settings_ko
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: a237a7620673fb64a94f7e98e09cf976, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 214931555442688
+    m_Localized: 일반
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1
+    m_Localized: 영상
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: 음성
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215303934140416
+    m_Localized: 언어
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: 해상도
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: 화면 모드
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: 전체 화면
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: 테두리 없는 창 모드
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: 최대화된 창 모드
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: 창 모드
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: 메인 음량
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: 배경음 음량
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: 효과음 음량
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971126148468736
+    m_Localized: 드론(상)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971158490746880
+    m_Localized: 드론(하)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971295887757312
+    m_Localized: 드론(좌)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971326996910080
+    m_Localized: 드론(우)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971844850847744
+    m_Localized: 드론 이동
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971374082166784
+    m_Localized: 특성 발동
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971413206634496
+    m_Localized: 열차 가속
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971449701273600
+    m_Localized: 열차 제동
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13281932249567232
+    m_Localized: 매핑 편집
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22421636475686912
+    m_Localized: 진행도 초기화
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30435869129871360
+    m_Localized: V-Sync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438747974307840
+    m_Localized: 켜짐
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438872465444864
+    m_Localized: 끄기
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

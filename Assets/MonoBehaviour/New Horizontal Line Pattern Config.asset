@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7bd2cf8e1f59bcd3df6611e3ce2c080, type: 3}
+  m_Name: New Horizontal Line Pattern Config
+  m_EditorClassIdentifier:
+  anchor:
+    rid: 3534513356412027265
+  spacing: 10
+  delayBetween: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 3534513356412027265
+      type: {class: TopEdgeAnchorConfig, ns: Monoblok.Enemy, asm: Assembly-CSharp}
+      data:
+        padding: 1
+        variation: 0.8

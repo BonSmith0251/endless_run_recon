@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c5fbd50abbaffcad65888f6b5887c6b, type: 3}
+  m_Name: Multi Rifle Crit chance and Fire Rate
+  m_EditorClassIdentifier:
+  id: 6e6dbee2-af61-4f89-931b-874b1fa10bb4
+  eligibilities: []
+  PriceMultiplier: 1.5
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: 56e60c44e93f32e46841dd50c0b1b747, type: 2}
+  - {fileID: 11400000, guid: d3edcd552eedcb44985c22fd629b0774, type: 2}
+  references:
+    version: 2
+    RefIds: []

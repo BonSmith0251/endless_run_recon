@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b22c8d88d0b471388e7cecaae19d8757, type: 3}
+  m_Name: Shotgun Weapon Config
+  m_EditorClassIdentifier:
+  <Range>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 69edc941fae67aa4ba42e25dcf4e7b1f, type: 2}
+    baseValue:
+      value: 15
+      runtimeValue: {fileID: 11400000, guid: 2fa4c571b49ff76439011781cf197f31, type: 2}
+  <Modifiers>k__BackingField: []
+  <BaseDamage>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: e63dd4ac5c736ef4eb497b35746d2b2c, type: 2}
+    baseValue:
+      value: 15
+      runtimeValue: {fileID: 11400000, guid: f63b7769bc7e4b3448c9a31a4d11f20c, type: 2}
+  <CritChance>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: cad498afd008c0b4a8053b0a563261ca, type: 2}
+    baseValue:
+      value: 0.1
+      runtimeValue: {fileID: 11400000, guid: 9e2c68fa6612c594ca265c8d7a61b691, type: 2}
+  <FireRate>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 0a56dfe3a2c62124d888cf82110fadd9, type: 2}
+    baseValue:
+      value: 1.3
+      runtimeValue: {fileID: 11400000, guid: ce59e69aa7423f04b854d723a21a88e1, type: 2}
+  <SFXRef>k__BackingField:
+    Guid:
+      Data1: -365746588
+      Data2: 1144690339
+      Data3: 1493956265
+      Data4: 1752786646
+  <ProjectilePrefab>k__BackingField: {fileID: 114703437598541787, guid: c9b1ac48c1490b944a864a1d90c97a43, type: 2}
+  <SpeedConstant>k__BackingField: 70
+  <ImpactReference>k__BackingField:
+    Guid:
+      Data1: 1528535422
+      Data2: 1180661313
+      Data3: -675105647
+      Data4: -55562380
+  <PierceCount>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: b133c43b37de5b34c9d61fca55a4b1a4, type: 2}
+    baseValue:
+      value: 0
+      runtimeValue: {fileID: 0}
+  <ProjectileCount>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 1d7ae060558ba19449d98cbf25c5ed92, type: 2}
+    baseValue:
+      value: 4
+      runtimeValue: {fileID: 0}
+  <Spread>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 052fd9936c4fb5d41bb58dcc1e69ff10, type: 2}
+    baseValue:
+      value: 35
+      runtimeValue: {fileID: 0}

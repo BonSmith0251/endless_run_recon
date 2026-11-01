@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7166a8950199d1d06131ff87c3e2e15d, type: 3}
+  m_Name: Unlock Dredger
+  m_EditorClassIdentifier:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:d190915228639d34e83912a8f01e9377
+    m_TableEntryReference:
+      m_KeyId: 75
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:d190915228639d34e83912a8f01e9377
+    m_TableEntryReference:
+      m_KeyId: 76
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  sprite: {fileID: 21300000, guid: a5b5ce06a0225884dbb2094f4d0fda7f, type: 2}
+  uiIcon: {fileID: 21300000, guid: 3e5252d3b6227ff428f15023286be655, type: 2}
+  runtimeValue: {fileID: 11400000, guid: 256eef6cb0269a9469520b6269a90e6b, type: 2}
+  targetState: 1
+  references:
+    version: 2
+    RefIds: []

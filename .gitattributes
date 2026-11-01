@@ -1,0 +1,2 @@
+# Keep every file byte-for-byte: Unity YAML, metas and binaries must not be line-ending converted.
+* -text

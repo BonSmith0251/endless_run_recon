@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3f8ea2ff4af326eda8e4b04fa8fcc7a, type: 3}
+  m_Name: Grandma_Eye Move Top Right
+  m_EditorClassIdentifier:
+  <EnterAnimation>k__BackingField: {fileID: 7400000, guid: 1b49ee994933cde4987acf22c121c152, type: 2}
+  <ModifierDefinitions>k__BackingField: []
+  <GameArea>k__BackingField: {fileID: 11400000, guid: 5bba3bf4eef98a44e8eb9f83127df877, type: 2}
+  <EdgeToMoveAlong>k__BackingField: 0
+  <Direction>k__BackingField: 1
+  <Padding>k__BackingField: 8

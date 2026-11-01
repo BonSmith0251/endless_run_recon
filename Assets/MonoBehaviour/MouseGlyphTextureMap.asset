@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1647136247, guid: 64e0f2e050d39308e329625632cf5a9c, type: 3}
+  m_Name: MouseGlyphTextureMap
+  m_EditorClassIdentifier:
+  TextureDetails:
+  - InputLayoutLocalPath: rightButton
+    GlyphTexture: {fileID: 2800000, guid: c8ae5a2bfe262354394dee6aa7026ffe, type: 3}
+  - InputLayoutLocalPath: leftButton
+    GlyphTexture: {fileID: 2800000, guid: 7c161bf008e57494ca7c56563c076f66, type: 3}
+  - InputLayoutLocalPath: middleButton
+    GlyphTexture: {fileID: 2800000, guid: ab74484823a12a845a5c044a468a7355, type: 3}
+  - InputLayoutLocalPath: scroll
+    GlyphTexture: {fileID: 2800000, guid: ab74484823a12a845a5c044a468a7355, type: 3}
+  - InputLayoutLocalPath: position
+    GlyphTexture: {fileID: 2800000, guid: c8a6c268026cb654a92a73cd2ed6cd9b, type: 3}
+  - InputLayoutLocalPath: delta
+    GlyphTexture: {fileID: 2800000, guid: c8a6c268026cb654a92a73cd2ed6cd9b, type: 3}

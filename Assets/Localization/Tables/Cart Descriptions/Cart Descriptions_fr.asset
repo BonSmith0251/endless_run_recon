@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cart Descriptions_fr
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 140441527868c8e448cfab91c70d9b43, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8249320736006602864
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Un wagon classique avec 1 emplacement de module.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Un wagon avancé avec 2 emplacements de module.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Un wagon ultra-moderne avec 4 emplacements de modules qui peuvent être échangés.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Source de puissance principale du train.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Wagon classique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Wagon peu commun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Wagon rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Locomotive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19478428896628736
+    m_Localized:
+    m_Metadata:
+      m_Items:
+      - rid: 8249320736006602864
+  - m_Id: 11892536564682752
+    m_Localized: Modèle T
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11892570521767936
+    m_Localized: Modèle V
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11892746917416960
+    m_Localized: Modèle R
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8249320736006602864
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 19478428896628736

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a4615e8a7edad6a6ecf4bdbd61c31a, type: 3}
+  m_Name: Levelup Reward Factory
+  m_EditorClassIdentifier:
+  pool:
+  - {fileID: 11400000, guid: 7d77f6969b227ce41ad0bab32f23cd30, type: 2}
+  - {fileID: 11400000, guid: a31dca204b867e24db78368bc5b10579, type: 2}
+  - {fileID: 11400000, guid: 15e8d12f2d75e2847895170204afcf3a, type: 2}
+  - {fileID: 11400000, guid: d9a233af67cc1f74280fc713bfe79e87, type: 2}
+  - {fileID: 11400000, guid: cb446a442bb243045a0b1a34e33b6e36, type: 2}
+  - {fileID: 11400000, guid: 27d28363666f2904bab5d204b5b881c4, type: 2}

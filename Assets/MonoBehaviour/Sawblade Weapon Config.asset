@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f90f88472cac9fe8d4a620b720dd60d, type: 3}
+  m_Name: Sawblade Weapon Config
+  m_EditorClassIdentifier:
+  <Range>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 69edc941fae67aa4ba42e25dcf4e7b1f, type: 2}
+    baseValue:
+      value: 4
+      runtimeValue: {fileID: 11400000, guid: 34c5663608086554d9463b308592c5d0, type: 2}
+  <Modifiers>k__BackingField: []
+  <BaseDamage>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: e63dd4ac5c736ef4eb497b35746d2b2c, type: 2}
+    baseValue:
+      value: 50
+      runtimeValue: {fileID: 11400000, guid: e6eaf75862ded5145a8cff0c41e82555, type: 2}
+  <CritChance>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: cad498afd008c0b4a8053b0a563261ca, type: 2}
+    baseValue:
+      value: 0.1
+      runtimeValue: {fileID: 0}
+  <WeaponPrefab>k__BackingField: {fileID: 114618682377417806, guid: cb684e45dfbf87847a253a8ae8b8bc56, type: 2}
+  <Speed>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 8e6d8be4657edc14cbdbbcbe432340f4, type: 2}
+    baseValue:
+      value: 8
+      runtimeValue: {fileID: 11400000, guid: c91db2a487f78fb42afc067af093e6c2, type: 2}
+  <Count>k__BackingField:
+    StatDefinition: {fileID: 11400000, guid: 6d12afcb990bb4a4697ac3ab724f7c46, type: 2}
+    baseValue:
+      value: 1
+      runtimeValue: {fileID: 11400000, guid: 139512b668da1eb45a7f301ba547655e, type: 2}
+  <StaggerDuration>k__BackingField: 0.05
+  <StaggerSpeedMultiplier>k__BackingField: 0.15
+  <StaggerRecoverDuration>k__BackingField: 0.1

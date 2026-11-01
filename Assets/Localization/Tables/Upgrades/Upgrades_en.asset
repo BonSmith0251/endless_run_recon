@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Upgrades_en
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d190915228639d34e83912a8f01e9377, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Dash Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Dash Charges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Dash Distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Dominance Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Dominance Charges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Dominance Duration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Knockback Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Knockback Charges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Knockback Distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Knockback Radius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Dredger Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Rifle Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Rifle Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Rifle Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: SMG Drone Crit Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: SMG Drone Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: SMG Drone Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: SMG Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Shotgun Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Shotgun Fire Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Shotgun Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: Dredger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Damage enemies when you run them over with the Locomotive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Model T
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: Unlock Model T in the Loco Selector.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: Model R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: Unlock Model R in the Loco Selector.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: '{value} to {stat}'
+    m_Metadata:
+      m_Items:
+      - rid: 29
+  references:
+    version: 2
+    RefIds:
+    - rid: 29
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries: []

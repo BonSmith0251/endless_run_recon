@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tooltips_hu
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: ed05d80c3c914bc4491eb53bbb2c26b1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 117963395072
+    m_Localized: 'Válassz egy <color=#FFEB87>azonos szintű</color> vagont az összevonás megkezdéséhez. Visszavonás:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515176566784
+    m_Localized: Klikkelj egy vagonra a kiválasztáshoz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695485501440
+    m_Localized: Nyomd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757099827200
+    m_Localized: 'Vagonok közötti váltás:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 882278830080
+    m_Localized: 'Vagonok átrendezése:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 951728115712
+    m_Localized: Klikkelj és húzd a vagonokat az átrendezéshez.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 254346871345152
+    m_Localized: A mostani menetben gyűjtött cuccaid elvesznek.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1357094152998912
+    m_Localized: Húzd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10494826276098048
+    m_Localized: Minden fejlesztés és gyűjtött érme elvész.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

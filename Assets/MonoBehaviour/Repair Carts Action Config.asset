@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b86c9a52815bd53a4e2287f92519f6, type: 3}
+  m_Name: Repair Carts Action Config
+  m_EditorClassIdentifier:
+  currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+  hotkey: {fileID: 11400000, guid: 997e2fd7111eb4646bf000cb3bd1ebcf, type: 2}
+  metaData: {fileID: 11400000, guid: 08273f8446de7de4ca29edb684c68349, type: 2}
+  coinPerHp: 1
+  maxHealthErrorMessage:
+    m_TableReference:
+      m_TableCollectionName: GUID:e4dccfc244a4323498370e8157f37910
+    m_TableEntryReference:
+      m_KeyId: 1
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  performeEvent: {fileID: 11400000, guid: a183183f559a0f3438ad8cd6b109a705, type: 2}
+  references:
+    version: 2
+    RefIds: []

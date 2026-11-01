@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8073d0123244d715cab24b89c4afdc, type: 3}
+  m_Name: New Cart Trade Offer Factory
+  m_EditorClassIdentifier:
+  rewardCount: 3
+  rewardPool:
+  - {fileID: 11400000, guid: 89238351f77453049bda7e0bc0540175, type: 2}
+  - {fileID: 11400000, guid: c8360467d58070b408f8e37c27b20406, type: 2}
+  - {fileID: 11400000, guid: 50789c7e818b5824e9aea45ce99e85e9, type: 2}
+  - {fileID: 11400000, guid: 71836bce710458e469210e3a1af9238d, type: 2}
+  - {fileID: 11400000, guid: ad8c5493a42318447b323136f31e7bf1, type: 2}
+  - {fileID: 11400000, guid: 6887d355670f64245be614af4225c99d, type: 2}
+  - {fileID: 11400000, guid: 3ec45102ac621824abe08ce11ea5d496, type: 2}
+  - {fileID: 11400000, guid: 3ef4d66eaeb0bd440b1e743452d768a9, type: 2}
+  - {fileID: 11400000, guid: abc6fb5985ef6f7449457bd814296e1e, type: 2}
+  - {fileID: 11400000, guid: 07270298d66bc604c81e70d6485e746a, type: 2}
+  - {fileID: 11400000, guid: 2f902ae3db45db44a882bf8142bca866, type: 2}
+  - {fileID: 11400000, guid: d189a6beb36ab774fa4b37964471985a, type: 2}
+  - {fileID: 11400000, guid: 5c67b449b2bf30b489223e2ac41b219e, type: 2}
+  - {fileID: 11400000, guid: a8e3fe35016fb6e4095d6783ab2f5848, type: 2}
+  - {fileID: 11400000, guid: 0404a45610b12124e9b71428ea21e989, type: 2}
+  - {fileID: 11400000, guid: 99504994c8487144cb1ce6eb229bcbca, type: 2}
+  - {fileID: 11400000, guid: 06e0291f788ab874d91eddf6a1e1ad50, type: 2}
+  - {fileID: 11400000, guid: 9b1db75fc429e9b4496c7414abddc520, type: 2}
+  - {fileID: 11400000, guid: 9b383c1301ded944b944dc240a48adca, type: 2}

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 171297f4a8b32f3a0101b6a37b435929, type: 3}
+  m_Name: Rifle Drone Bay Module Definition
+  m_EditorClassIdentifier:
+  id: 8bafef05-67d2-46c8-bed5-3d90365cf687
+  fallbackName:
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 55
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 56
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 43cb64a3c2f33454c8c29910cf754728, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 3000
+  <IsOffered>k__BackingField: 1
+  eligibilities: []
+  modulePrefab: {fileID: 114618682377417806, guid: 01463332afcf2864d880c79b85aca4b8, type: 2}
+  droneDatas:
+  - {fileID: 11400000, guid: 907023d08c437d040bfead99dc8e2260, type: 2}
+  lastDroneError:
+    m_TableReference:
+      m_TableCollectionName: GUID:e4dccfc244a4323498370e8157f37910
+    m_TableEntryReference:
+      m_KeyId: 3172712879656960
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

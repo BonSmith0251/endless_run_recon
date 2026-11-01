@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a9f195a637cc988fb31147be652684, type: 3}
+  m_Name: Shotgun Weapon Module
+  m_EditorClassIdentifier:
+  id: 587ef51d-044c-446e-9911-9a01f685c12c
+  fallbackName:
+  fallbackDescription:
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 29
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:fa59b52434e989b468f541274e3e5b7a
+    m_TableEntryReference:
+      m_KeyId: 30
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 8b096102b9773694a88ecbb1f570def6, type: 2}
+  <BasePrice>k__BackingField:
+    Currency: {fileID: 11400000, guid: 6bac588b7f37b584c804e8066a7fd0d8, type: 2}
+    Amount: 800
+  <IsOffered>k__BackingField: 1
+  eligibilities: []
+  prefab: {fileID: 114703437598541787, guid: 1cde28e5ec3737542b934fa8690e8d2c, type: 2}
+  <Config>k__BackingField: {fileID: 11400000, guid: 2cb66c2fefb8e6f48a25374a12d89c44, type: 2}
+  references:
+    version: 2
+    RefIds: []

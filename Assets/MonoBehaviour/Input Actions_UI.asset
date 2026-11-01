@@ -1,0 +1,410 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+  m_Name: Input Actions_UI
+  m_EditorClassIdentifier:
+  m_ActionMaps:
+  - m_Name: UI
+    m_Id: b268ae1d-e8e6-4f77-a8c9-ca16208bb8a2
+    m_Asset: {fileID: 11400000}
+    m_Actions:
+    - m_Name: Navigate
+      m_Type: 2
+      m_ExpectedControlType: Vector2
+      m_Id: f2a07e7f-2ff6-4bbd-9ddc-f1cbadc1d64c
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    - m_Name: Submit
+      m_Type: 1
+      m_ExpectedControlType:
+      m_Id: 9fd2858e-ef26-4960-8c7a-8505ed58a0b4
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    - m_Name: Cancel
+      m_Type: 1
+      m_ExpectedControlType: Button
+      m_Id: 6b175bfc-5827-435d-93fb-9b36933983f7
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    - m_Name: Point
+      m_Type: 2
+      m_ExpectedControlType: Vector2
+      m_Id: 9f913839-5eb5-4ce8-8a36-ed50ee5d8481
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 1
+    - m_Name: Click
+      m_Type: 2
+      m_ExpectedControlType: Button
+      m_Id: b192c61c-7536-4bd0-9ad8-fe7d9d944ab8
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 1
+    - m_Name: ScrollWheel
+      m_Type: 2
+      m_ExpectedControlType: Vector2
+      m_Id: 6f17d249-c52f-4a9c-a886-37ab54202775
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    - m_Name: MiddleClick
+      m_Type: 2
+      m_ExpectedControlType: Button
+      m_Id: 6b62b6f1-f858-42ea-bad7-c29334488632
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    - m_Name: RightClick
+      m_Type: 2
+      m_ExpectedControlType: Button
+      m_Id: 4fafd482-bca5-4dfd-812f-09dddd10d3e2
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    - m_Name: TrackedDevicePosition
+      m_Type: 2
+      m_ExpectedControlType: Vector3
+      m_Id: 52485f3b-fa60-4423-baf6-432715d38b65
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    - m_Name: TrackedDeviceOrientation
+      m_Type: 2
+      m_ExpectedControlType: Quaternion
+      m_Id: 703b5c32-4bc9-45be-86ae-7b1f6b227f18
+      m_Processors:
+      m_Interactions:
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Bindings:
+    - m_Name: Gamepad
+      m_Id: 09860ce4-83d3-49ce-8391-819b6dc4f6cb
+      m_Path: 2DVector
+      m_Interactions:
+      m_Processors: StickDeadzone
+      m_Groups:
+      m_Action: Navigate
+      m_Flags: 4
+    - m_Name: up
+      m_Id: ad962da3-7a7b-4a3a-b489-79401c54fd9f
+      m_Path: '<Gamepad>/leftStick/up'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: up
+      m_Id: 195966e7-94ff-427a-8f73-ffdd626db12a
+      m_Path: '<Gamepad>/dpad/up'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 9ef5832a-f939-4be5-b38f-349fd08a26bd
+      m_Path: '<Gamepad>/leftStick/down'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: down
+      m_Id: a1d96192-9923-49e4-99a5-c89d483954cd
+      m_Path: '<Gamepad>/dpad/down'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 36cb9560-ea65-430b-bd1a-6a8933261099
+      m_Path: '<Gamepad>/leftStick/left'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 1de0b9ab-830f-4dba-a10e-651b8483706a
+      m_Path: '<Gamepad>/dpad/left'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: right
+      m_Id: b135dccc-e2e9-4af4-8002-1db57d6bb842
+      m_Path: '<Gamepad>/leftStick/right'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: right
+      m_Id: 3f83e172-d4ac-42ff-8caa-e29871d297f2
+      m_Path: '<Gamepad>/dpad/right'
+      m_Interactions:
+      m_Processors:
+      m_Groups: ;Gamepad;Controller
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: Joystick
+      m_Id: e87e6aaf-afe1-41f5-8494-47cf7f53e797
+      m_Path: 2DVector
+      m_Interactions:
+      m_Processors: StickDeadzone
+      m_Groups:
+      m_Action: Navigate
+      m_Flags: 4
+    - m_Name: up
+      m_Id: 3e028a71-6d2b-4b60-8082-a7dca9b70bf0
+      m_Path: '<Joystick>/stick/up'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Joystick
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 02d2029c-b207-4954-8039-95bf249ea211
+      m_Path: '<Joystick>/stick/down'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Joystick
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 487595e8-578d-4e55-baea-2fbfe8ede8a2
+      m_Path: '<Joystick>/stick/left'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Joystick
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: right
+      m_Id: b196cb59-655e-43c6-a3f0-4d8996112275
+      m_Path: '<Joystick>/stick/right'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Joystick
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: Keyboard
+      m_Id: 33932cf2-96e3-4d98-8918-0e0fcd7fb531
+      m_Path: 2DVector
+      m_Interactions:
+      m_Processors:
+      m_Groups:
+      m_Action: Navigate
+      m_Flags: 4
+    - m_Name: up
+      m_Id: ed2b03e1-18be-4394-9cff-4b5ae17f887e
+      m_Path: '<Keyboard>/w'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: up
+      m_Id: e0d31c7a-7ee4-47c7-ae3a-cbb7840c0db8
+      m_Path: '<Keyboard>/upArrow'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 23948c0e-8af8-4bb0-a3b6-6d8bf01d1ee9
+      m_Path: '<Keyboard>/s'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 9a882cba-98ee-4a8f-98a3-47cb7b06f6d7
+      m_Path: '<Keyboard>/downArrow'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 664c4357-54af-4a7c-a0da-b4b0176b7b5b
+      m_Path: '<Keyboard>/a'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 3e7d9dbe-f08e-4490-b0c9-83b99806f272
+      m_Path: '<Keyboard>/leftArrow'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: right
+      m_Id: 19b65f25-b94b-47fd-ac58-7157442805cf
+      m_Path: '<Keyboard>/d'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name: right
+      m_Id: b541cbfb-6f64-42cd-85eb-41ad29bfb72a
+      m_Path: '<Keyboard>/rightArrow'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Navigate
+      m_Flags: 8
+    - m_Name:
+      m_Id: 9ff9cdc0-72f1-4fc3-a802-301321e1f6fc
+      m_Path: '*/{Submit}'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Gamepad;Touch;Joystick;XR;KBM;Controller
+      m_Action: Submit
+      m_Flags: 0
+    - m_Name:
+      m_Id: 92981a80-a9bb-4652-b023-eb65edf8e526
+      m_Path: '*/{Cancel}'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Gamepad;Touch;Joystick;XR;KBM;Controller
+      m_Action: Cancel
+      m_Flags: 0
+    - m_Name:
+      m_Id: 16b88300-9165-493c-b70b-c020fd42d826
+      m_Path: '<Mouse>/position'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Point
+      m_Flags: 0
+    - m_Name:
+      m_Id: a2246472-d812-4d7c-b0a1-08931b35edb7
+      m_Path: '<Pen>/position'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Point
+      m_Flags: 0
+    - m_Name:
+      m_Id: ce906989-12d2-432b-9c1c-521d834106bd
+      m_Path: '<Touchscreen>/touch*/position'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Touch
+      m_Action: Point
+      m_Flags: 0
+    - m_Name:
+      m_Id: 81f7ee19-38e0-42d3-89b7-65191c578b5a
+      m_Path: '<Mouse>/leftButton'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Click
+      m_Flags: 0
+    - m_Name:
+      m_Id: a083f99f-0f76-4c90-80b9-e7b6e5e5a526
+      m_Path: '<Pen>/tip'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: Click
+      m_Flags: 0
+    - m_Name:
+      m_Id: 22794c60-23b7-4ae4-8d65-73d6d97934c5
+      m_Path: '<Touchscreen>/touch*/press'
+      m_Interactions:
+      m_Processors:
+      m_Groups: Touch
+      m_Action: Click
+      m_Flags: 0
+    - m_Name:
+      m_Id: 07493612-3624-485a-b5ea-79debc8dd3c3
+      m_Path: '<XRController>/trigger'
+      m_Interactions:
+      m_Processors:
+      m_Groups: XR
+      m_Action: Click
+      m_Flags: 0
+    - m_Name:
+      m_Id: efcdd3a3-38ce-4b1c-9194-862a00d6ab6d
+      m_Path: '<Mouse>/scroll'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: ScrollWheel
+      m_Flags: 0
+    - m_Name:
+      m_Id: 79a9ad80-8e3b-49ee-bc1a-08c5d7c64684
+      m_Path: '<Mouse>/middleButton'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: MiddleClick
+      m_Flags: 0
+    - m_Name:
+      m_Id: defefa88-0fd9-4f61-8516-2c2b8ade77ae
+      m_Path: '<Mouse>/rightButton'
+      m_Interactions:
+      m_Processors:
+      m_Groups: KBM
+      m_Action: RightClick
+      m_Flags: 0
+    - m_Name:
+      m_Id: e46a057a-aefd-4165-ac50-cb67013ccda3
+      m_Path: '<XRController>/devicePosition'
+      m_Interactions:
+      m_Processors:
+      m_Groups: XR
+      m_Action: TrackedDevicePosition
+      m_Flags: 0
+    - m_Name:
+      m_Id: 4699a990-8dd2-49bb-ae48-0096737d3cd7
+      m_Path: '<XRController>/deviceRotation'
+      m_Interactions:
+      m_Processors:
+      m_Groups: XR
+      m_Action: TrackedDeviceOrientation
+      m_Flags: 0
+  m_ControlSchemes:
+  - m_Name: KBM
+    m_BindingGroup: KBM
+    m_DeviceRequirements:
+    - m_ControlPath: '<Keyboard>'
+      m_Flags: 0
+    - m_ControlPath: '<Mouse>'
+      m_Flags: 0
+  - m_Name: Controller
+    m_BindingGroup: Controller
+    m_DeviceRequirements:
+    - m_ControlPath: '<Gamepad>'
+      m_Flags: 0
+  m_IsProjectWide: 0

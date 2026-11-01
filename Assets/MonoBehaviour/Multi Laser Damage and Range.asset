@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c5fbd50abbaffcad65888f6b5887c6b, type: 3}
+  m_Name: Multi Laser Damage and Range
+  m_EditorClassIdentifier:
+  id: 6073c4ab-903e-441c-bcdc-9f43e681462a
+  eligibilities: []
+  PriceMultiplier: 1.5
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: 2a1f67dc2fe6bc346b2302d666030f10, type: 2}
+  - {fileID: 11400000, guid: 40cf50c50da95f84d90feef002a354c3, type: 2}
+  references:
+    version: 2
+    RefIds: []

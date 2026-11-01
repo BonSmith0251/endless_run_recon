@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Settings_es
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: a237a7620673fb64a94f7e98e09cf976, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Vídeo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Resolución
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Modo de pantalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Pantalla completa exclusiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Ventana sin bordes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Ventana maximizada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Modo ventana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Volumen general
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Volumen de música
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Volumen de efectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214931555442688
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215303934140416
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971126148468736
+    m_Localized: Dron arriba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971158490746880
+    m_Localized: Dron abajo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971295887757312
+    m_Localized: Dron izquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971326996910080
+    m_Localized: Dron derecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971844850847744
+    m_Localized: Movimiento del dron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971374082166784
+    m_Localized: Activar habilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971413206634496
+    m_Localized: Acelerar tren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12971449701273600
+    m_Localized: Frenar tren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13281932249567232
+    m_Localized: Configurar controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22421636475686912
+    m_Localized: Reiniciar progreso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30435869129871360
+    m_Localized: V-Sync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438747974307840
+    m_Localized: Activado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30438872465444864
+    m_Localized: Desactivado
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

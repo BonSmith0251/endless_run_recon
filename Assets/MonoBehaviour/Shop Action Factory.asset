@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92780f429891d09174a2bbe046c2680, type: 3}
+  m_Name: Shop Action Factory
+  m_EditorClassIdentifier:
+  wallet: {fileID: 11400000, guid: b9e4137ed4a15954eab316a2fc8ad32b, type: 2}
+  insufficientFundsMessage:
+    m_TableReference:
+      m_TableCollectionName: GUID:e4dccfc244a4323498370e8157f37910
+    m_TableEntryReference:
+      m_KeyId: 5
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  moduleDatabase: {fileID: 11400000, guid: eb7018c030dafbd4f974367ce3dd94b6, type: 2}
+  affordableWeightMultiplier: 5
+  unaffordableWeightMultiplier: 0
+  affordabilityFalloffPercent: 1
+  minimumFalloffRange: 50
+  noFreeSlotsMessage:
+    m_TableReference:
+      m_TableCollectionName: GUID:e4dccfc244a4323498370e8157f37910
+    m_TableEntryReference:
+      m_KeyId: 6
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  staticActionConfigs:
+  - {fileID: 11400000, guid: 34c0ea50e413d31468f1040fb0d781b2, type: 2}
+  - {fileID: 11400000, guid: e1e1de9afb8439e4bb94e2af27546949, type: 2}
+  - {fileID: 11400000, guid: 976575510b79fb743856f796623de9fd, type: 2}
+  - {fileID: 11400000, guid: 58532b3badfebfc498d98bcd97f81c4d, type: 2}
+  references:
+    version: 2
+    RefIds: []

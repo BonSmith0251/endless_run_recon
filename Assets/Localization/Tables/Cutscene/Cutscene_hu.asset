@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_hu
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: 30e590581f804cb40b6091dac4b279e6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38846238720
+    m_Localized: Miután a felszínt elveszítettük, a föld alatti silókba menekültünk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66927104000
+    m_Localized: "Az idő mintha... megállt volna.\nAz élelem egyre fogy, a patkány pedig egyre több."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99638480896
+    m_Localized: Napok óta semmi hír a többi silóról.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124955299840
+    m_Localized: Itt nem maradhatok, de a vágányokon keresztül talán eljuthatok valahová.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150704132096
+    m_Localized: Szóval berakok egy kis zenét...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177870639104
+    m_Localized: ...és megnézem, meddig bírom odakint.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

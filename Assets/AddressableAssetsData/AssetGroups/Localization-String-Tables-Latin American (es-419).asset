@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Latin American (es-419)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Latin American (es-419)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c7849f701d5d511498db3bb950189da4
+  m_SerializeEntries:
+  - m_GUID: 097db0ba0ce0bcd4ea3760305f53706c
+    m_Address: Cart Descriptions_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fe407272a2ebc74ca5be6b6527d8cd6
+    m_Address: Shop Actions_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e279defa6b3b044f861abef43a3bf42
+    m_Address: Credits_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47921a06e51a4ad4ba934618e1ebbe8f
+    m_Address: End Game Stats_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d6654bfe3b640447a6dd2a4e916401c
+    m_Address: Trade_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 611f12ee3526d164bae3255406063892
+    m_Address: Modules_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61cbbb1dc79869742b72b1d7342b0e2e
+    m_Address: Tooltips_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 645f7c5d60f32b54ab7dde4d6c83f4c5
+    m_Address: Menu Headers_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69d2966c8f090ae41acbda315216bf66
+    m_Address: Settings_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a0c7294926dc154f87fbe5802589433
+    m_Address: Cutscene_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90b360dba8376454080915e7b25ea995
+    m_Address: Misc_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf4c75421e06094409b725784ff9122b
+    m_Address: Abilities_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c333276799367d742a25da1b8169ac1c
+    m_Address: Tutorials_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c651b2684c398344cab2e87ee2583418
+    m_Address: Main Menu_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c768507ff4845cd4abe10b2e2aa67742
+    m_Address: Buttons_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb083f2280c62d4469f2acbe5d8a673a
+    m_Address: Errors_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5ac542e1aae1864986666b5f2406fbb
+    m_Address: Upgrades_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebf04dd3c88c3a248a36b8784aa81ea3
+    m_Address: Module Targets_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb9ab5c087a2bf445b70590318d07122
+    m_Address: Stats_es-419
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-419
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: e84a99a2d77129c459ce9f05094036e4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9331fff31fbe29649b3d39641e860825, type: 2}
+    - {fileID: 11400000, guid: f3836fa5738fd874ab2f888467defdf2, type: 2}

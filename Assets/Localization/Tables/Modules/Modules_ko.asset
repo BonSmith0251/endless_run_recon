@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Modules_ko
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: fa59b52434e989b468f541274e3e5b7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4150802661017911429
+  m_TableData:
+  - m_Id: 1
+    m_Localized: 화염방사기
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: 화염을 발사해 지속적으로 피해를 입힙니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: 바이러스
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: 유해 폐기물
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: 톱날
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: 해당 객차의 주변 적에게 피해를 입힙니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: SMG 드론
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: 발사 속도는 빠르지만 피해가 낮은 중거리 드론입니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: 뇌격 무기
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: 장거리의 무작위 적들을 표적으로 삼아 공격하며, 주변 적에게 연쇄 피해를 입힙니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: 크리스털
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: 화염 부품
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: 우라늄
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: 골드바
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: 각 정거장에서 이 모듈의 <color=#FFEB87>판매가</color>가 <color=#71FF90>{0}</color> 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 21
+    m_Localized: 빙결 무기
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: 얼음을 발사하여 적의 이동 속도를 감소시킵니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: 얼음 부품
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: 산탄총 드론
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: 넓은 범위에 높은 피해를 입히지만, 발사 속도가 느린 근거리 드론입니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: 넉백 부품
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: 산탄총 포탑
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: 객차가 산탄총을 발사할 수 있습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: 코인 가방
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: 다음 정거장에서 전달하면 300 코인을 획득합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: 레이더
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: 소총 포탑
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: 객차가 소총을 발사할 수 있습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: 레이저 포탑
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: 객차가 강력한 레이저를 발사할 수 있습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: 플루토늄
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: 관통기
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: 빠른 병합
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: 다음 정거장에 전달하면, 해당 객차의 병합 웨이브 카운터가 <color=#71FF90>1</color> 감소합니다(최소 1).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: 기타 앰프
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: 열차가 공격받으면 적을 뒤로 밀쳐냅니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: 컬렉터
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: SMG 포탑
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: 객차에 설치하면 SMG를 발사할 수 있습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: 산소통
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: 추락한 방주
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: 해당 객차와 인접한 객차의 <color=#FFEB87>모든 스탯</color>이 <color=#71FF90>50%</color> 증가하며, 다음 정거장에서 소멸됩니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: 소총 드론
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: 높은 피해를 입히지만, 발사 속도가 느린 장거리 드론입니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: 바이오 연료
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: 석유
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: 코인 수확기
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: 뇌격 부품
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: 기름통
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: 추가 칼날
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: '{target}의 <color=#FFEB87>{stat}</color> +{value}'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 4150802661017911429
+  - m_Id: 69
+    m_Localized: '<color=#FFEB87>{stat}</color> +{value}'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: -2
+      - rid: 4150802661017911429
+  - m_Id: 70
+    m_Localized: '{target}에 {effect} 추가'
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911429
+  - m_Id: 71
+    m_Localized: 뇌격 특성
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: 넉백 특성
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: 화염 특성
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: 얼음 특성
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63477153173504
+    m_Localized: UFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63886416580608
+    m_Localized: 뇌격 프리즘
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63982336118784
+    m_Localized: 화염 프리즘
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64299027042304
+    m_Localized: 뇌격 트랩
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64387132592128
+    m_Localized: 화염 트랩
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64431294418944
+    m_Localized: 얼음 트랩
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169104537128960
+    m_Localized: 방전된 배터리
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169206630682624
+    m_Localized: 자석
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169282191069184
+    m_Localized: 제어 장치
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169354941272064
+    m_Localized: AI 두뇌
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169426034724864
+    m_Localized: 라이트닝볼
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169484281024512
+    m_Localized: 파이어볼
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169539100577792
+    m_Localized: 아이스볼
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169617680863232
+    m_Localized: SMG 드론 Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170283866361856
+    m_Localized: SMG 드론 Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170364975812608
+    m_Localized: 산탄총 드론 Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170445263179776
+    m_Localized: 산탄총 드론 Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170501437493248
+    m_Localized: 소총 드론 Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170570110832640
+    m_Localized: 소총 드론 Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171116251156480
+    m_Localized: 소총 드론 3대를 배치합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171189659865088
+    m_Localized: 소총 드론 2대를 배치합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171261491515392
+    m_Localized: 산탄총 드론 3대를 배치합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171309432410112
+    m_Localized: 산탄총 드론 2대를 배치합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171371550052352
+    m_Localized: SMG 드론 3대를 배치합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171413325320192
+    m_Localized: SMG 드론 2대를 배치합니다.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class:, ns:, asm:}
+      data: {}
+    - rid: 4150802661017911429
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 68
+        - id: 69
+        - id: 70

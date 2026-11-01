@@ -1,0 +1,371 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Modules_es-419
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: es-419
+  m_SharedData: {fileID: 11400000, guid: fa59b52434e989b468f541274e3e5b7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: -2
+    - rid: 4150802661017911435
+  m_TableData:
+  - m_Id: 20
+    m_Localized: Aumento del <color=#FFEB87>valor de venta</color> de este módulo en <color=#71FF90>{0}</color> en cada estación.
+    m_Metadata:
+      m_Items:
+      - rid: -2
+  - m_Id: 68
+    m_Localized: '{value} a <color=#FFEB87>{stat}</color> {target}.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: 4150802661017911435
+  - m_Id: 69
+    m_Localized: '{value} a <color=#FFEB87>{stat}</color>.'
+    m_Metadata:
+      m_Items:
+      - rid: -2
+      - rid: -2
+      - rid: 4150802661017911435
+  - m_Id: 70
+    m_Localized: Agrega {effect} {target}.
+    m_Metadata:
+      m_Items:
+      - rid: 4150802661017911435
+  - m_Id: 1
+    m_Localized: Lanzallamas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: Dispara llamas e inflige daño continuo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Virus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Desechos peligrosos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Sierra circular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: El vagón inflige daño circular.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Dron subfusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Dron subfusil que inflige poco daño con una alta cadencia de disparo a media distancia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Arma relámpago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Ataca a enemigos al azar a larga distancia. Se encadena con enemigos cercanos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Cristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: Modificador de fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Uranio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Lingotes de oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Lanzahielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Dispara hielo y ralentiza a los enemigos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Modificador de hielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Dron escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: Dron escopeta que inflige mucho daño con una amplia dispersión a corta distancia, con una baja cadencia de disparo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Modificador de retroceso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: Torreta escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Equipa este vagón con una escopeta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: Bolsa de monedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Entrégala en la siguiente estación y recibe 300 monedas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: Radar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Torreta fusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Equipa este vagón con un fusil.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Torreta láser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: Equipa este vagón con un láser poderoso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Plutonio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Perforador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Fusión rápida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: '<color=#71FF90>-1</color> al contador de oleadas de fusión de este vagón cuando se entregue en la siguiente estación. (Mín. 1)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: Amplificador de guitarra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: Al impactar el tren, hace retroceder a los enemigos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Recolector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Torreta subfusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Equipa este vagón con un subfusil.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Tanque de oxígeno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: Arca perdida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: '<color=#71FF90>+50 %</color> a <color=#FFEB87>todas las estadísticas</color> de este vagón y los adyacentes. Se elimina en la siguiente estación.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Dron fusil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Dron fusil que inflige mucho daño a larga distancia con una baja cadencia de disparo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Biocombustible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Querosén
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: Ganancia de monedas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Modificador de relámpago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Barriles de petróleo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: Cuchillas extras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: Habilidad de relámpago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Habilidad de retroceso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Habilidad de fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: Habilidad de hielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63477153173504
+    m_Localized: OVNI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63886416580608
+    m_Localized: Prisma de relámpago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63982336118784
+    m_Localized: Prisma de fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64299027042304
+    m_Localized: Trampa de relámpago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64387132592128
+    m_Localized: Trampa de fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64431294418944
+    m_Localized: Trampa de hielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169104537128960
+    m_Localized: Batería caducada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169206630682624
+    m_Localized: Imán
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169282191069184
+    m_Localized: Estación de control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169354941272064
+    m_Localized: Cerebro de IA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169426034724864
+    m_Localized: Bola de relámpago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169484281024512
+    m_Localized: Bola de fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169539100577792
+    m_Localized: Bola de hielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2169617680863232
+    m_Localized: Dron subfusil Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170283866361856
+    m_Localized: Dron subfusil Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170364975812608
+    m_Localized: Dron escopeta Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170445263179776
+    m_Localized: Dron escopeta Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170501437493248
+    m_Localized: Dron fusil Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2170570110832640
+    m_Localized: Dron fusil Pro Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171116251156480
+    m_Localized: Despliega 3 drones fusil de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171189659865088
+    m_Localized: Despliega 2 drones fusil de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171261491515392
+    m_Localized: Despliega 3 drones escopeta de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171309432410112
+    m_Localized: Despliega 2 drones escopeta de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171371550052352
+    m_Localized: Despliega 3 drones subfusil de combate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171413325320192
+    m_Localized: Despliega 2 drones subfusil de combate.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class:, ns:, asm:}
+      data: {}
+    - rid: 4150802661017911435
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 68
+        - id: 69
+        - id: 70

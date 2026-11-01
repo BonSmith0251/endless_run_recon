@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b829af221024c71ac27a9e3334f117b3, type: 3}
+  m_Name: Tier 1 Cart Data
+  m_EditorClassIdentifier:
+  id: 6111874e-872f-49b5-9fc1-e9c799eca51c
+  <Tier>k__BackingField: {fileID: 11400000, guid: 7c0fcd2a4fb9a8145abddd894803db7f, type: 2}
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName:
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  localizedDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:140441527868c8e448cfab91c70d9b43
+    m_TableEntryReference:
+      m_KeyId: 1
+      m_Key:
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <FootPrint>k__BackingField: 2.5050974
+  <CartSprite>k__BackingField: {fileID: 21300000, guid: 4da352fc7b4f7524aa1338f7e99460b1, type: 2}
+  <ModuleStatModifierFactory>k__BackingField:
+    Type: 0
+    value: 0
+    displayAsPercent: 0
+  <NextTier>k__BackingField: {fileID: 11400000, guid: 6f73b7522632b6943b07582b62f58ffc, type: 2}
+  <Orderable>k__BackingField: 1
+  <CanMerge>k__BackingField: 1
+  <ShowModuleVisuals>k__BackingField: 1
+  slotLocalPositions:
+  - {x: -1.4882812, y: 1.0955}
+  references:
+    version: 2
+    RefIds: []
